@@ -5,7 +5,7 @@ import sys
 
 from viterbi import viterbi
 
-def decode(word, modelfile):
+def decode(word, modelfile, verbose=False):
     if os.path.getsize(modelfile) > 0:
         with open(modelfile, "rb") as data:
             unpickler = pickle.Unpickler(data);
@@ -31,7 +31,8 @@ def decode(word, modelfile):
         else:
             break
 
-    print(estimate)
+    if verbose:
+        print(estimate)
     print(final)
 
 if __name__ == '__main__':
