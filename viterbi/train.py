@@ -5,6 +5,8 @@
 # 2017
 
 import re
+import json 
+
 from viterbi import viterbi
 
 class morph():
@@ -30,6 +32,10 @@ class morph():
         self.emit_p_n = {}
 
         self.verbose=verbose
+
+        # Read and train
+        self.read()
+        self.p()
 
     def read(self):
         for line in self.F:
@@ -128,20 +134,23 @@ class morph():
             print('Transition P', self.trans_p)
             print('Emit P', self.emit_p)
 
+    def save(self):
+        data = [list(self.states), self.start_p, self.trans_p, self.emit_p]
+        json.dump(data, self.Fo)
 
-if __name__ == "__main__":
 
-    trainfile = "trainseg.wix"
 
-    M = morph(trainfile)
 
-    M.read()
-    M.p()
-    M.save()
-    
-    seq = list('nekiri')
+def decode(word, modelfile):
+    with open(modelfile) as json_data:
+        d = json.load(json_data)
+    states = d[0]
+    start_p= d[1]
+    trans_p = d[2]
+    emit_p = d[3]
+    word = list(word)
+    estimate = viterbi(word, states, start_p, trans_p, emit_p)
 
-    estimate = viterbi(seq, M.states, M.start_p, M.trans_p, M.emit_p)
     final = ""
     for i in range(len(estimate)):
         if estimate[i] == 'w':
@@ -155,4 +164,14 @@ if __name__ == "__main__":
     print(estimate)
     print(final)
 
+if __name__ == "__main__":
 
+    # Training
+    trainfile = "trainseg.wix"
+
+    M = morph(trainfile)
+    M.save()
+
+    decode("neki", "trainseg.model")
+    
+   
