@@ -4,15 +4,17 @@
 # GPL 3.0+
 # 2017
 
+import os
 import re
-import json 
+import pickle
 
 from viterbi import viterbi
 
 class morph():
     def __init__(self, filename, verbose=False):
         self.F = open(filename, "r")
-        self.Fo = open(filename.split(".")[0] + ".model", "w")
+        self.FoName = filename.split(".")[0] + ".model"
+        self.Fo = None
 
         self.lines = []
 
@@ -136,33 +138,11 @@ class morph():
 
     def save(self):
         data = [list(self.states), self.start_p, self.trans_p, self.emit_p]
-        json.dump(data, self.Fo)
+        # Save model to output file
+        with open(self.FoName, "wb") as Fo:
+            pickle.dump(data, Fo)
 
 
-
-
-def decode(word, modelfile):
-    with open(modelfile) as json_data:
-        d = json.load(json_data)
-    states = d[0]
-    start_p= d[1]
-    trans_p = d[2]
-    emit_p = d[3]
-    word = list(word)
-    estimate = viterbi(word, states, start_p, trans_p, emit_p)
-
-    final = ""
-    for i in range(len(estimate)):
-        if estimate[i] == 'w':
-            final = final + seq[i]
-        elif estimate[i] == '|':
-            final = final + seq[i]
-            final = final + ' ' 
-        else:
-            break
-
-    print(estimate)
-    print(final)
 
 if __name__ == "__main__":
 
@@ -172,6 +152,5 @@ if __name__ == "__main__":
     M = morph(trainfile)
     M.save()
 
-    decode("neki", "trainseg.model")
     
    
