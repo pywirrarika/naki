@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+
+# Author: Manuel Mager
+# GPL 3.0+
+# 2017
+
+
 import argparse
 import pickle
 import os
@@ -5,7 +12,7 @@ import sys
 
 from viterbi import viterbi
 
-def decode(word, modelfile, verbose=False):
+def decode(word, modelfile, verbose=False, letters=False):
     if os.path.getsize(modelfile) > 0:
         with open(modelfile, "rb") as data:
             unpickler = pickle.Unpickler(data);
@@ -19,17 +26,23 @@ def decode(word, modelfile, verbose=False):
     trans_p = d[2]
     emit_p = d[3]
     word = list(word)
+    if verbose:
+        print("Segment word:", word)
+
     estimate = viterbi(word, states, start_p, trans_p, emit_p)
 
     final = ""
-    for i in range(len(estimate)):
-        if estimate[i] == 'w':
-            final = final + word[i]
-        elif estimate[i] == '|':
-            final = final + word[i]
-            final = final + ' ' 
-        else:
-            break
+    if not letters:
+        for i in range(len(estimate)):
+            if estimate[i] == 'w':
+                final = final + word[i]
+            elif estimate[i] == '|':
+                final = final + word[i]
+                final = final + ' ' 
+            else:
+                break
+    else:
+        final = "".join(estimate)
 
     if verbose:
         print(estimate)
@@ -38,7 +51,7 @@ def decode(word, modelfile, verbose=False):
 if __name__ == '__main__':
 
 
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='Segment word into morphemes.')
     parser.add_argument('--word', dest='word', type=str)
     parser.add_argument('--input', dest='input', type=str)
     parser.add_argument('--model', dest='model',  type=str, required=True)

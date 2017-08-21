@@ -7,14 +7,20 @@
 import os
 import re
 import pickle
+import argparse
 
 from viterbi import viterbi
 
 class morph():
-    def __init__(self, filename, verbose=False):
+    def __init__(self, filename, verbose=True, letters=False):
+
+        if letters:
+            self.w = False
+        else:
+            self.w = True
+
         self.F = open(filename, "r")
         self.FoName = filename.split(".")[0] + ".model"
-        self.Fo = None
 
         self.lines = []
 
@@ -45,21 +51,42 @@ class morph():
                 continue
             seg = line.replace("\n", "").lower()
             word = seg.replace(" ", "")
-            seg = re.sub(r"[a-z+'] ","|", seg)
-            seg = re.sub(r"[a-z+' ]", "w", seg)
-            #print(word) 
-            #print(seg)
-            self.startP(seg)
-            self.lines.append((list(word), list(seg)))
+            if self.w:
+                seg = re.sub(r"[a-z+'] ","|", seg)
+                seg = re.sub(r"[a-z+' ]", "w", seg)
+                target = list(seg)
+                self.states = self.states | set(target)
+            else:
+                target = []
+                segl = list(seg)
+                for i in range(len(segl)):
+                    if segl[i] == ' ':
+                        continue
+                    try:
+                        next = segl[i+1]
+                    except IndexError:
+                        target.append(segl[i])
+                        continue
+                    if next == " ":
+                        target.append(seg[i]+next)
+                    else:
+                        target.append(segl[i])
+                self.states = self.states | set(target)
+
+            self.lines.append((list(word), target))
 
             # Pepare sigma for output states and observed values 
-            self.states = self.states | set(list(seg))
             self.obs= self.obs | set(list(word))
 
         self.states = self.states | set('#')
         self.obs= self.obs | set('#')
 
 
+        print('Hidden states:', self.states)
+
+
+        for k in self.states:
+            self.start_p[k] = 0
 
         #Prepare dics
         for k in self.states:
@@ -73,6 +100,7 @@ class morph():
             self.emit_p_c[k] = {o:0 for o in self.obs}
             self.emit_p_n[k] = 0
 
+
         self.start_p['#'] = 0
 
 
@@ -81,6 +109,7 @@ class morph():
             hidden = line[1]
             obs = line[0]
 
+            self.startP(hidden)
             # Count the transitions
             for i in range(len(hidden)):
                 try:
@@ -100,7 +129,11 @@ class morph():
 
     def startP(self, seg):
         self.start_p_n += 1
-        s = seg[:1]
+        try:
+            s = seg[0]
+        except IndexError:
+            print(seg)
+            return
         try:
             self.start_p_c[s] += 1
         except KeyError:
@@ -128,7 +161,6 @@ class morph():
                 except ZeroDivisionError:
                     self.emit_p[s][k] = 0
 
-
         if self.verbose:
             print('Hidden states:', self.states)
             print('Observed states', self.obs)
@@ -139,8 +171,11 @@ class morph():
     def save(self):
         data = [list(self.states), self.start_p, self.trans_p, self.emit_p]
         # Save model to output file
+        
         with open(self.FoName, "wb") as Fo:
             pickle.dump(data, Fo)
+        
+        print("Model saved: ", self.FoName)
 
 
 
@@ -149,7 +184,12 @@ if __name__ == "__main__":
     # Training
     trainfile = "trainseg.wix"
 
-    M = morph(trainfile)
+    parser = argparse.ArgumentParser(description='Train morphologic model.')
+    parser.add_argument('input')
+
+    args = parser.parse_args()
+
+    M = morph(args.input)
     M.save()
 
     
