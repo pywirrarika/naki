@@ -9,12 +9,13 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Online demos and software**
 
-- [Wayuu-Spanish Machine Translation](http://142.4.219.173/wt/)
-- [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/)
+- [Wayuu-Spanish Machine Translation](http://142.4.219.173/wt/) Author: José Cirilo González Hernández
+- [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/) Author: Jesús Manuel Mager Hois
 - [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). 
 
 **Scientific papers**
 
+- González Hernández, José C. (2016). Herramienta de traduccin automática de wayuunaiki a español. Caso de estudio: sintagmas nominales y verbales simples. Universidad de Zulia. 
 - Mager Hois, J. M., Barrón Romero, C., & Meza Ruiz, I. V. (2016). [Traductor estadístico wixarika-español usando descomposición morfológica](http://code.kiutz.com/arts/COMTEL2016.pdf). In COMTEL 2016.
 
 ## Automatic Lexical extraction
@@ -36,6 +37,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Gutierrez-Vasques, X., Sierra, G., & Pompa, I. H. (2016). [Axolotl: a Web Accessible Parallel Corpus for Spanish-Nahuatl](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1068_Paper.pdf). In _LREC_.
 
+- Galarreta Asian, A. P. (2017). [Generación de corpus paralelos para la implementación de un traductor automático estadístico entre shipibo-konibo y español](http://tesis.pucp.edu.pe/repositorio/handle/123456789/8325). Pontificia Universidad Católica del Perú.
+
 ## Morphologcal analysis and segmentation
 
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
@@ -44,10 +47,13 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Castro Cavero, Indhira.
 - Farfán Madariaga, Jaime.
-- Gerardo, Sierra.
+- González Hernández, José Cirilo.
 - Gutierrez, Ximena.
-- Meza, Ivan.
 - Mager, Manuel.
+- Meza, Ivan.
+- Sierra, Gerado.
+
+
 
 ## Contact
 
