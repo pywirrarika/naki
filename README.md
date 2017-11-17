@@ -33,6 +33,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Gutierrez, Ximena. (2015, June). [Bilingual lexicon extraction for a distant language pair using a small parallel corpus](http://www.anthology.aclweb.org/N/N15/N15-2021.pdf). In _NAACL-HLT 2015 Student Research Workshop (SRW)_ (p. 154).
 
+- Lam, K. N., Al Tarouti, F., & Kalita, J. (2014). [Creating lexical resources for endangered languages](http://www.anthology.aclweb.org/W/W14/W14-2207.pdf). ACL 2014, 54. (_Cherokee and Cheyenne_)
+
 ## Corpus and digital resources
 
 **Online Corpus Resources**
@@ -64,6 +66,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Micher, J. C. (2017). [Improving Coverage of an Inuktitut Morphological Analyzer Using a Segmental Recurrent Neural Network](http://www.aclweb.org/anthology/W/W17/W17-0114.pdf). ComputEL-2, 101. (_Inuktitut_)
 
 - Arppe, A., Junker, M. O., & Torkornoo, D. (2017). [Converting a comprehensive lexical database into a computational model: The case of East Cree verb inflection](http://www.aclweb.org/anthology/W/W17/W17-0108.pdf). ComputEL-2, 52. (_Cree_)
+
+- Snoek, C., Thunder, D., Loo, K., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2014, June). [Modeling the noun morphology of Plains Cree](http://www.anthology.aclweb.org/W/W14/W14-2205.pdf). In Proceedings of the 2014 Workshop on the Use of Computational Methods in the Study of Endangered Languages (pp. 34-42). (_Cree_)
 
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
 
