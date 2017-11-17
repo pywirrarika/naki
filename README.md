@@ -33,7 +33,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Gutierrez, Ximena. (2015, June). [Bilingual lexicon extraction for a distant language pair using a small parallel corpus](http://www.anthology.aclweb.org/N/N15/N15-2021.pdf). In _NAACL-HLT 2015 Student Research Workshop (SRW)_ (p. 154).
 
-## Corpus collection
+## Corpus and digital resources
 
 **Online Corpus Resources**
 
@@ -42,13 +42,24 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific papers**
 
+- Kazeminejad, G., Cowell, A., & Hulden, M. (2017). [Creating lexical resources for polysynthetic languages—the case of Arapaho](http://www.aclweb.org/anthology/W/W17/W17-0102.pdf). ComputEL-2, 10. (_Arapaho_)
+
+- Bell, L., & Bell, L. (2017). [Work With What You’ve Got](http://www.aclweb.org/anthology/W/W17/W17-0107.pdf). ComputEL-2, 48. (_haida_)
+
 - Gutierrez-Vasques, X., Sierra, G., & Pompa, I. H. (2016). [Axolotl: a Web Accessible Parallel Corpus for Spanish-Nahuatl](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1068_Paper.pdf). In _LREC_.
 
 - Galarreta Asian, A. P. (2017). [Generación de corpus paralelos para la implementación de un traductor automático estadístico entre shipibo-konibo y español](http://tesis.pucp.edu.pe/repositorio/handle/123456789/8325). Pontificia Universidad Católica del Perú.
 
 ## Morphologcal analysis and segmentation
 
+**Software**
 
+- [Inuktitut Morphological Analyzer](http://www.inuktitutcomputing.ca/Uqailaut/index.php)
+- [Wixarika Morphological Segmenter](https://github.com/pywirrarika/smtwixes/tree/master/wixnlp)
+
+**Scientific Papers**
+
+- Bowers, D., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2017). [A Morphological Parser for Odawa](http://www.aclweb.org/anthology/W/W17/W17-0101.pdf). ComputEL-2, 1.
 
 - Micher, J. C. (2017). [Improving Coverage of an Inuktitut Morphological Analyzer Using a Segmental Recurrent Neural Network](http://www.aclweb.org/anthology/W/W17/W17-0114.pdf). ComputEL-2, 101. (_Inuktitut_)
 
@@ -64,7 +75,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 ## OCR
 
-- Maxwell, M., & Bills, A. (2017). [Endangered Data for Endangered Languages: Digitizing Print dictionaries](http://www.aclweb.org/anthology/W/W17/W17-0112.pdf). ComputEL-2, 85. (_Tzeltal_)
+- Maxwell, M., & Bills, A. (2017). [Endangered Data for Endangered Languages: Digitizing Print dictionaries](http://www.aclweb.org/anthology/W/W17/W17-0112.pdf). ComputEL-2, 85. (_Tzeltal, Muinane, Cubeo_)
 
 <!---
 ## People
