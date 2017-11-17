@@ -44,6 +44,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
 
+<!---
+
 ## People
 
 - Castro Cavero, Indhira.
@@ -54,7 +56,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Meza, Ivan.
 - Sierra, Gerado.
 
-
+-->
 
 ## Contact
 
