@@ -50,8 +50,12 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
 - Porta, A. O. (2010, July). [The use of formal language models in the typology of the morphology of Amerindian languages](http://www.anthology.aclweb.org/P/P10/P10-3019.pdf). In Proceedings of the ACL 2010 Student Research Workshop (pp. 109-113). Association for Computational Linguistics. (_Toba and Quichua_)
-<!---
 
+## Parsing
+
+- Homola, P. (2011, September). [Parsing a Polysynthetic Language](http://anthology.aclweb.org/R/R11/R11-1079.pdf). In RANLP (pp. 562-567). (_Ayamara_)
+
+<!---
 ## People
 
 - Castro Cavero, Indhira.
