@@ -11,12 +11,13 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - [Wayuu-Spanish Machine Translation](http://142.4.219.173/wt/) Author: José Cirilo González Hernández
 - [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/) Author: Jesús Manuel Mager Hois
-- [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). 
+- [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). Author: Gonazlo Santiago Martínez. 
 
 **Scientific papers**
 
-- González Hernández, José C. (2016). Herramienta de traduccin automática de wayuunaiki a español. Caso de estudio: sintagmas nominales y verbales simples. Universidad de Zulia. 
+- González Hernández, José C. (2016). [Herramienta de traduccin automática de wayuunaiki a español. Caso de estudio: sintagmas nominales y verbales simples](https://www.dropbox.com/s/kqfos49lw36oras/Trabajo%20Especial%20de%20Grado.pdf?dl=0). Universidad de Zulia. 
 - Mager Hois, J. M., Barrón Romero, C., & Meza Ruiz, I. V. (2016). [Traductor estadístico wixarika-español usando descomposición morfológica](http://code.kiutz.com/arts/COMTEL2016.pdf). In COMTEL 2016.
+- Vilca, Hugo David Calderon. [TRADUCTOR AUTOMÁTICO EN LINEA DEL ESPAÑOL A QUECHUA, BASADO EN LA PLATAFORMA LIBRE Y CÓDIGO ABIERTO APERTIUM](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, 2009, vol. 5, no 3.
 
 ## Automatic Lexical extraction
 
