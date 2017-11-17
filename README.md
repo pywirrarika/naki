@@ -48,12 +48,23 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 ## Morphologcal analysis and segmentation
 
+
+
+- Micher, J. C. (2017). [Improving Coverage of an Inuktitut Morphological Analyzer Using a Segmental Recurrent Neural Network](http://www.aclweb.org/anthology/W/W17/W17-0114.pdf). ComputEL-2, 101. (_Inuktitut_)
+
+- Arppe, A., Junker, M. O., & Torkornoo, D. (2017). [Converting a comprehensive lexical database into a computational model: The case of East Cree verb inflection](http://www.aclweb.org/anthology/W/W17/W17-0108.pdf). ComputEL-2, 52. (_Cree_)
+
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
+
 - Porta, A. O. (2010, July). [The use of formal language models in the typology of the morphology of Amerindian languages](http://www.anthology.aclweb.org/P/P10/P10-3019.pdf). In Proceedings of the ACL 2010 Student Research Workshop (pp. 109-113). Association for Computational Linguistics. (_Toba and Quichua_)
 
 ## Parsing
 
 - Homola, P. (2011, September). [Parsing a Polysynthetic Language](http://anthology.aclweb.org/R/R11/R11-1079.pdf). In RANLP (pp. 562-567). (_Ayamara_)
+
+## OCR
+
+- Maxwell, M., & Bills, A. (2017). [Endangered Data for Endangered Languages: Digitizing Print dictionaries](http://www.aclweb.org/anthology/W/W17/W17-0112.pdf). ComputEL-2, 85. (_Tzeltal_)
 
 <!---
 ## People
