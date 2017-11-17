@@ -36,7 +36,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 ## Corpus and digital resources
 
 **Online Corpus Resources**
-
+- [Inukitut Morhological Database](http://www.inuktitutcomputing.ca/DataBase/info.php)
 - [Nahuatl, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
 - [Wixarika](https://raw.githubusercontent.com/pywirrarika/wixarikacorpora/master/largecorpus.wixes) Parallel Wixarika - Spanish
 
