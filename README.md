@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Naki
 
-You can use the [editor on GitHub](https://github.com/pywirrarika/naki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a small page that (try) to assamble all done works of Natural Language Processing for Native and Indigenous languages of the American continent. Our languages are in danger, But work has been done to include us in the the era of IT. This list can be compleated only with the cooperation of all visitores. If you know about some work in this field, please let me know and push to this repositoy or send an email to mmager [at] thuring.iimas.unam.mx
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Machine Translation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Automatic Lexical extraction
+### Corpus collection
+### Morphologcal analysis and segmentation
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Researchers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pywirrarika/naki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+
+
