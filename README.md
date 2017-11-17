@@ -12,7 +12,11 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 ### Automatic Lexical extraction
 
-Gutierrez, Ximena. (2015, June). *Bilingual lexicon extraction for a distant language pair using a small parallel corpus*. In _NAACL-HLT 2015 Student Research Workshop (SRW)_ (p. 154).
+- Gutierrez-Vasques, X., & Mijangos, V. (2017). [Low-resource bilingual lexicon extraction using graph based word embeddings](https://pdfs.semanticscholar.org/1968/e574af144ca6ecbfe770de031a5f7f96aee6.pdf). _arXiv preprint arXiv:1710.02569_.
+
+- Gutierrez, Ximena. (2015, June). [Bilingual lexicon extraction for a distant language pair using a small parallel corpus](http://www.anthology.aclweb.org/N/N15/N15-2021.pdf). In _NAACL-HLT 2015 Student Research Workshop (SRW)_ (p. 154).
+
+
 
 ### Corpus collection
 ### Morphologcal analysis and segmentation
