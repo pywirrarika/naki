@@ -64,7 +64,6 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - [Inuktitut Morphological Analyzer](http://www.inuktitutcomputing.ca/Uqailaut/index.php)
 - [Wixarika Morphological Segmenter](https://github.com/pywirrarika/smtwixes/tree/master/wixnlp)
-- []
 
 **Scientific Papers**
 
