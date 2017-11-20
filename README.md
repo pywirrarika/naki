@@ -16,6 +16,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific papers and thesis**
 
+- Galarreta, A. P., Melgar, A. & Ocevay, A. (September, 2017). [Corpus Creation and Initial SMT Experiments between Spanish and Shipibo-konibo](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP033.pdf). In RANLP 2017 (p. 238-244). 
+
 - Mager Hois, Jesús Manuel. (2017). [Traductor híbrido wixárika - español con escasos recursos bilingües](http://code.kiutz.com/tesism/tesis.pdf). Universidad Autónoma Metropolitana. 
 
 - González Hernández, José C. (2016). [Herramienta de traduccin automática de wayuunaiki a español. Caso de estudio: sintagmas nominales y verbales simples](https://www.dropbox.com/s/kqfos49lw36oras/Trabajo%20Especial%20de%20Grado.pdf?dl=0). Universidad de Zulia. 
