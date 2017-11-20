@@ -41,8 +41,12 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Online Corpus Resources**
 - [Inukitut Morhological Database](http://www.inuktitutcomputing.ca/DataBase/info.php)
-- [Nahuatl, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
-- [Wixarika](https://raw.githubusercontent.com/pywirrarika/wixarikacorpora/master/largecorpus.wixes) Parallel Wixarika - Spanish
+- [Nahuatl-Spanish, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
+- [Wixarika-Spansh](https://raw.githubusercontent.com/pywirrarika/wixarikacorpora/master/largecorpus.wixes) Parallel Wixarika - Spanish
+- [Shipibo-Konibo Spanish](http://chana.inf.pucp.edu.pe/resources/parallel-corpus/) Parallel corpus.
+- [Shipibo-Konibo Wordnet](http://chana.inf.pucp.edu.pe/resources/wordnet-shp/)
+- [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
+- [Shipibo-Konbio POS-tag corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/pos-tagger/)
 
 **Scientific papers**
 
@@ -60,10 +64,9 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - [Inuktitut Morphological Analyzer](http://www.inuktitutcomputing.ca/Uqailaut/index.php)
 - [Wixarika Morphological Segmenter](https://github.com/pywirrarika/smtwixes/tree/master/wixnlp)
+- []
 
 **Scientific Papers**
-
-Jose Pereira-Noriega, Rodolfo Mercado-Gonzales, Andrés Melgar, Marco Sobrevilla-Cabezudo, & Arturo Oncevay-Marcos. (2017). [Ship-LemmaTagger: building an NLP toolkit for a peruvian native language](http://chana.inf.pucp.edu.pe/index.php/en/publications/). In Text, Speech, and Dialogue: 20th International Conference, TSD 2017. Springer.
 
 - Bowers, D., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2017). [A Morphological Parser for Odawa](http://www.aclweb.org/anthology/W/W17/W17-0101.pdf). ComputEL-2, 1.
 
@@ -76,6 +79,10 @@ Jose Pereira-Noriega, Rodolfo Mercado-Gonzales, Andrés Melgar, Marco Sobrevilla
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
 
 - Porta, A. O. (2010, July). [The use of formal language models in the typology of the morphology of Amerindian languages](http://www.anthology.aclweb.org/P/P10/P10-3019.pdf). In Proceedings of the ACL 2010 Student Research Workshop (pp. 109-113). Association for Computational Linguistics. (_Toba and Quichua_)
+
+## POS Tagging
+
+- Jose Pereira-Noriega, Rodolfo Mercado-Gonzales, Andrés Melgar, Marco Sobrevilla-Cabezudo, & Arturo Oncevay-Marcos. (2017). [Ship-LemmaTagger: building an NLP toolkit for a peruvian native language](http://chana.inf.pucp.edu.pe/index.php/en/publications/). In Text, Speech, and Dialogue: 20th International Conference, TSD 2017. Springer.
 
 ## Parsing
 
