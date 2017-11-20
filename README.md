@@ -13,6 +13,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/) Author: Jesús Manuel Mager Hois
 - [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). Author: Gonazlo Santiago Martínez. 
 
+
 **Scientific papers and thesis**
 
 - Galarreta, A. P., Melgar, A. & Ocevay, A. (September, 2017). [Corpus Creation and Initial SMT Experiments between Spanish and Shipibo-konibo](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP033.pdf). In RANLP 2017 (p. 238-244). 
@@ -47,10 +48,9 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - [Shipibo-Konibo Wordnet](http://chana.inf.pucp.edu.pe/resources/wordnet-shp/)
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
 - [Shipibo-Konbio POS-tag corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/pos-tagger/)
+- [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
 
 **Scientific papers**
-
-- Cotterell, R., Kirov, C., Sylak-Glassman, J., Walther, G., Vylomova, E., Xia, P., & Faruqui, M. (2017). [CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages](http://www.aclweb.org/anthology/K17-2001). CoNLL SIGMORPHON, 1. (_Haida, Navajo, Quechua_)
 
 - Kazeminejad, G., Cowell, A., & Hulden, M. (2017). [Creating lexical resources for polysynthetic languages—the case of Arapaho](http://www.aclweb.org/anthology/W/W17/W17-0102.pdf). ComputEL-2, 10. (_Arapaho_)
 
@@ -68,6 +68,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - [Wixarika Morphological Segmenter](https://github.com/pywirrarika/smtwixes/tree/master/wixnlp)
 
 **Scientific Papers**
+
+- Cotterell, R., Kirov, C., Sylak-Glassman, J., Walther, G., Vylomova, E., Xia, P., & Faruqui, M. (2017). [CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages](http://www.aclweb.org/anthology/K17-2001). CoNLL SIGMORPHON, 1. (_Haida, Navajo, Quechua_)
 
 - Bowers, D., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2017). [A Morphological Parser for Odawa](http://www.aclweb.org/anthology/W/W17/W17-0101.pdf). ComputEL-2, 1.
 
