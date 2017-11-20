@@ -64,6 +64,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific Papers**
 
+Jose Pereira-Noriega, Rodolfo Mercado-Gonzales, Andrés Melgar, Marco Sobrevilla-Cabezudo, & Arturo Oncevay-Marcos. (2017). [Ship-LemmaTagger: building an NLP toolkit for a peruvian native language](http://chana.inf.pucp.edu.pe/index.php/en/publications/). In Text, Speech, and Dialogue: 20th International Conference, TSD 2017. Springer.
+
 - Bowers, D., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2017). [A Morphological Parser for Odawa](http://www.aclweb.org/anthology/W/W17/W17-0101.pdf). ComputEL-2, 1.
 
 - Micher, J. C. (2017). [Improving Coverage of an Inuktitut Morphological Analyzer Using a Segmental Recurrent Neural Network](http://www.aclweb.org/anthology/W/W17/W17-0114.pdf). ComputEL-2, 101. (_Inuktitut_)
@@ -83,6 +85,10 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 ## OCR
 
 - Maxwell, M., & Bills, A. (2017). [Endangered Data for Endangered Languages: Digitizing Print dictionaries](http://www.aclweb.org/anthology/W/W17/W17-0112.pdf). ComputEL-2, 85. (_Tzeltal, Muinane, Cubeo_)
+
+## Spell checking
+
+Carlo Alva and Arturo Oncevay-Marcos. (2017). [Spell-checking based on syllabification and character-level graphs for a peruvian agglutinative language](http://www.aclweb.org/anthology/W17-4116). In Proceedings of the EMNLP 2017 Workshop on Subword & Character Level Models in NLP, SCLeM 2017. ACL Anthology.
 
 <!---
 ## People
