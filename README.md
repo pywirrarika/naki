@@ -4,15 +4,14 @@ This page (tries) to assemble all done works on Natural Language Processing (NLP
 
 Our main aim is to encourage native speakers, researchers, and engineers to participate in this effort. Hopefully, we can do it with these survey. 
 
-
 ## Machine Translation
 
 **Online demos and software**
-
+- [CHANA](http://chana.inf.pucp.edu.pe/index.php/en/home/) A software platform for automatic translation between Peruvian native languages
+- [Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) includes Yucatec Maya and Queretaro Otomí. 
 - [Wayuu-Spanish Machine Translation](http://142.4.219.173/wt/) Author: José Cirilo González Hernández
 - [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/) Author: Jesús Manuel Mager Hois
 - [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). Author: Gonazlo Santiago Martínez. 
-- [Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) includes Yucatec Maya and Queretaro Otomí. 
 
 **Scientific papers and thesis**
 
@@ -88,20 +87,11 @@ Jose Pereira-Noriega, Rodolfo Mercado-Gonzales, Andrés Melgar, Marco Sobrevilla
 
 ## Spell checking
 
-Carlo Alva and Arturo Oncevay-Marcos. (2017). [Spell-checking based on syllabification and character-level graphs for a peruvian agglutinative language](http://www.aclweb.org/anthology/W17-4116). In Proceedings of the EMNLP 2017 Workshop on Subword & Character Level Models in NLP, SCLeM 2017. ACL Anthology.
+- Carlo Alva and Arturo Oncevay-Marcos. (2017). [Spell-checking based on syllabification and character-level graphs for a peruvian agglutinative language](http://www.aclweb.org/anthology/W17-4116). In Proceedings of the EMNLP 2017 Workshop on Subword & Character Level Models in NLP, SCLeM 2017. ACL Anthology.
 
-<!---
-## People
+## Language ID
 
-- Castro Cavero, Indhira.
-- Farfán Madariaga, Jaime.
-- González Hernández, José Cirilo.
-- Gutierrez, Ximena.
-- Mager, Manuel.
-- Meza, Ivan.
-- Sierra, Gerado.
-
--->
+- Alexandra Espichán-Linares and Arturo Oncevay-Marcos. 2017. A low-resourced peruvian language identification model. In Proceedings of the SIMBig 2017 Track on Applied Natural Language Processing, ANLP 2017. Springer. In-press.
 
 ## Contact
 
