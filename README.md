@@ -43,7 +43,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 **Online Corpus Resources**
 - [Inukitut Morhological Database](http://www.inuktitutcomputing.ca/DataBase/info.php)
 - [Nahuatl-Spanish, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
-- [Wixarika-Spansh](https://raw.githubusercontent.com/pywirrarika/wixarikacorpora/master/largecorpus.wixes) Parallel Wixarika - Spanish
+- [Wixarika-Spanish](https://raw.githubusercontent.com/pywirrarika/wixarikacorpora/master/largecorpus.wixes) Parallel Wixarika - Spanish
 - [Shipibo-Konibo Spanish](http://chana.inf.pucp.edu.pe/resources/parallel-corpus/) Parallel corpus.
 - [Shipibo-Konibo Wordnet](http://chana.inf.pucp.edu.pe/resources/wordnet-shp/)
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
