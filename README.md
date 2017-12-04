@@ -24,6 +24,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Mager Hois, J. M., Barrón Romero, C., & Meza Ruiz, I. V. (2016). [Traductor estadístico wixarika-español usando descomposición morfológica](http://code.kiutz.com/arts/COMTEL2016.pdf). In COMTEL 2016.
 
+- Coler M. and Homola Petr. (2014) [Ruble-based machine translation for Aymara](https://www.researchgate.net/publication/230785505_Rule-based_machine_translation_for_Aymara), in book Endangered Languages and New Technologies, Chapter: 4, Publisher: Cambridge University Press, Editors: Mari Jones, pp.67-80
+
 - Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
 
 - Castro Cavero, Indhira. (2007)[Traductor morfológico del castellano y quechua](https://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf). Revista I+i, vol. 1, no. 1.
