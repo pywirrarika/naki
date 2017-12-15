@@ -71,6 +71,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific Papers**
 
+- Harrigan, A. G., Schmirler, K., Arppe, A., Antonsen, L., Trosterud, T., & Wolvengrey, A. (2017). [Learning from the computational modelling of Plains Cree verbs](https://link.springer.com/article/10.1007/s11525-017-9315-x). Morphology, 27(4), 565-598.
+
 - Cotterell, R., Kirov, C., Sylak-Glassman, J., Walther, G., Vylomova, E., Xia, P., & Faruqui, M. (2017). [CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages](http://www.aclweb.org/anthology/K17-2001). CoNLL SIGMORPHON, 1. (_Haida, Navajo, Quechua_)
 
 - Bowers, D., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2017). [A Morphological Parser for Odawa](http://www.aclweb.org/anthology/W/W17/W17-0101.pdf). ComputEL-2, 1.
