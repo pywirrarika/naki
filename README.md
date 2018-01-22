@@ -62,7 +62,12 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Gutierrez-Vasques, X., Sierra, G., & Pompa, I. H. (2016). [Axolotl: a Web Accessible Parallel Corpus for Spanish-Nahuatl](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1068_Paper.pdf). In _LREC_.
 
+- Hoenen, A. (2016). [Wikipedia Titles As Noun Tag Predictors](http://www.lrec-conf.org/proceedings/lrec2016/pdf/18_Paper.pdf). In LREC.
+
+- Christodouloupoulos, C., & Steedman, M. (2015). [A massively parallel corpus: the Bible in 100 languages. Language resources and evaluation](http://link.springer.com/article/10.1007/s10579-014-9287-y), 49(2), 375-395.
+
 - Goldhahn, D., Eckart, T., & Quasthoff, U. (2012). [Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages](https://pdfs.semanticscholar.org/1b56/0f892432fb853d233c92f9294640bc91de3c.pdf). In LREC (pp. 759-765).
+
 
 ## Morphologcal analysis and segmentation
 
@@ -82,6 +87,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Micher, J. C. (2017). [Improving Coverage of an Inuktitut Morphological Analyzer Using a Segmental Recurrent Neural Network](http://www.aclweb.org/anthology/W/W17/W17-0114.pdf). ComputEL-2, 101. (_Inuktitut_)
 
 - Arppe, A., Junker, M. O., & Torkornoo, D. (2017). [Converting a comprehensive lexical database into a computational model: The case of East Cree verb inflection](http://www.aclweb.org/anthology/W/W17/W17-0108.pdf). ComputEL-2, 52. (_Cree_)
+
+- Sylak-Glassman, J., Kirov, C., & Yarowsky, D. (2016). [Remote Elicitation of Inflectional Paradigms to Seed Morphological Analysis in Low-Resource Languages](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1031_Paper.pdf). In LREC. (Also includes some experiments with Nahuatl)
 
 - Snoek, C., Thunder, D., Loo, K., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2014, June). [Modeling the noun morphology of Plains Cree](http://www.anthology.aclweb.org/W/W14/W14-2205.pdf). In Proceedings of the 2014 Workshop on the Use of Computational Methods in the Study of Endangered Languages (pp. 34-42). (_Cree_)
 
@@ -113,7 +120,11 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Alexandra Espichán-Linares and Arturo Oncevay-Marcos. 2017. A low-resourced peruvian language identification model. In Proceedings of the SIMBig 2017 Track on Applied Natural Language Processing, ANLP 2017. Springer. In-press.
 
-## Code-Switching
+- Xia, F., Lewis, C., & Lewis, W. D. (2010). [The Problems of Language Identification within Hugely Multilingual Data Sets](http://mt-archive.info/LREC-2010-Xia.pdf). In LREC.
+
+## Code-Switching and Multilingual NLP
+
+- Asgari, E., & Schütze, H. (2017). [Past, Present, Future: A Computational Investigation of the Typology of Tense in 1000 Languages](https://arxiv.org/pdf/1704.08914.pdf). arXiv preprint arXiv:1704.08914.
 
 - Garrette, D., Alpert-Abrams, H., Berg-Kirkpatrick, T., & Klein, D. (2015). [Unsupervised Code-Switching for Multilingual Historical Document Transcription](http://www.cs.utexas.edu/~ml/papers/garrette.naacl15.pdf). In HLT-NAACL (pp. 1036-1041).
 
