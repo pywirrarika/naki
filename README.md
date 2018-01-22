@@ -130,6 +130,10 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - King, B., & Abney, S. (2013). [Labeling the languages of words in mixed-language documents using weakly supervised methods](http://www.aclweb.org/anthology/N13-1131). In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1110-1119). (Also nahutal mixed sentences)
 
+## Tools
+
+- Kuhn, J. (2004). [Applying computational linguistic techniques in a documentary project for Q’anjob’al (Mayan, Guatemala)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=38AE54494D1E31D064F78F599CF0AEE0?doi=10.1.1.154.6408&rep=rep1&type=pdf). In In Proceedings of LREC 2004.
+
 ## Contact
 
 This effort can be completed only with the cooperation of all visitors. If you know about some work in this field, please let me know and push to this repositoy or send an email to mmager [at] thuring.iimas.unam.mx
