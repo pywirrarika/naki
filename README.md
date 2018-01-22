@@ -58,9 +58,11 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Bell, L., & Bell, L. (2017). [Work With What You’ve Got](http://www.aclweb.org/anthology/W/W17/W17-0107.pdf). ComputEL-2, 48. (_haida_)
 
+- Galarreta Asian, A. P. (2017). [Generación de corpus paralelos para la implementación de un traductor automático estadístico entre shipibo-konibo y español](http://tesis.pucp.edu.pe/repositorio/handle/123456789/8325). Pontificia Universidad Católica del Perú.
+
 - Gutierrez-Vasques, X., Sierra, G., & Pompa, I. H. (2016). [Axolotl: a Web Accessible Parallel Corpus for Spanish-Nahuatl](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1068_Paper.pdf). In _LREC_.
 
-- Galarreta Asian, A. P. (2017). [Generación de corpus paralelos para la implementación de un traductor automático estadístico entre shipibo-konibo y español](http://tesis.pucp.edu.pe/repositorio/handle/123456789/8325). Pontificia Universidad Católica del Perú.
+- Goldhahn, D., Eckart, T., & Quasthoff, U. (2012). [Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages](https://pdfs.semanticscholar.org/1b56/0f892432fb853d233c92f9294640bc91de3c.pdf). In LREC (pp. 759-765).
 
 ## Morphologcal analysis and segmentation
 
@@ -85,6 +87,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
 
+- Martínez-Gil, C., Zempoalteca-Pérez, A., Soancatl-Aguilar, V., de Jesús Estudillo-Ayala, M., Lara-Ramírez, J. E., & Alcántara-Santiago, S. (2012). [Computer Systems for Analysis of Nahuatl](http://www.rcs.cic.ipn.mx/2012_47/Computer%20Systems%20for%20Analysis%20of%20Nahuatl.pdf). Research in Computing Science, 47, 11-16.
+
 - Porta, A. O. (2010, July). [The use of formal language models in the typology of the morphology of Amerindian languages](http://www.anthology.aclweb.org/P/P10/P10-3019.pdf). In Proceedings of the ACL 2010 Student Research Workshop (pp. 109-113). Association for Computational Linguistics. (_Toba and Quichua_)
 
 ## POS Tagging
@@ -99,6 +103,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Maxwell, M., & Bills, A. (2017). [Endangered Data for Endangered Languages: Digitizing Print dictionaries](http://www.aclweb.org/anthology/W/W17/W17-0112.pdf). ComputEL-2, 85. (_Tzeltal, Muinane, Cubeo_)
 
+- Garrette, D., & Alpert-Abrams, H. (2016). [An Unsupervised Model of Orthographic Variation for Historical Document Transcription](http://www.aclweb.org/anthology/N/N16/N16-1055.pdf). In HLT-NAACL (pp. 467-472).
+
 ## Spell checking
 
 - Carlo Alva and Arturo Oncevay-Marcos. (2017). [Spell-checking based on syllabification and character-level graphs for a peruvian agglutinative language](http://www.aclweb.org/anthology/W17-4116). In Proceedings of the EMNLP 2017 Workshop on Subword & Character Level Models in NLP, SCLeM 2017. ACL Anthology.
@@ -106,6 +112,12 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 ## Language ID
 
 - Alexandra Espichán-Linares and Arturo Oncevay-Marcos. 2017. A low-resourced peruvian language identification model. In Proceedings of the SIMBig 2017 Track on Applied Natural Language Processing, ANLP 2017. Springer. In-press.
+
+## Code-Switching
+
+- Garrette, D., Alpert-Abrams, H., Berg-Kirkpatrick, T., & Klein, D. (2015). [Unsupervised Code-Switching for Multilingual Historical Document Transcription](http://www.cs.utexas.edu/~ml/papers/garrette.naacl15.pdf). In HLT-NAACL (pp. 1036-1041).
+
+- King, B., & Abney, S. (2013). [Labeling the languages of words in mixed-language documents using weakly supervised methods](http://www.aclweb.org/anthology/N13-1131). In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1110-1119). (Also nahutal mixed sentences)
 
 ## Contact
 
