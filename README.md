@@ -28,6 +28,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
 
+- Medina-Urrea, A. (2008). [Affix discovery based on entropy and economy measurements. Computational Linguistics for Less-Studied Languages](http://web.stanford.edu/group/cslipublications/cslipublications/TLS/TLS10-2006/TLS10_Medina-Urrea.pdf). Texas Linguistics Society 10, 99-112.
+
 - Castro Cavero, Indhira. (2007)[Traductor morfológico del castellano y quechua](https://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf). Revista I+i, vol. 1, no. 1.
 
 ## Automatic Lexical extraction
