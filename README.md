@@ -28,8 +28,6 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
 
-- Medina-Urrea, A. (2008). [Affix discovery based on entropy and economy measurements. Computational Linguistics for Less-Studied Languages](http://web.stanford.edu/group/cslipublications/cslipublications/TLS/TLS10-2006/TLS10_Medina-Urrea.pdf). Texas Linguistics Society 10, 99-112.
-
 - Castro Cavero, Indhira. (2007)[Traductor morfológico del castellano y quechua](https://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf). Revista I+i, vol. 1, no. 1.
 
 ## Automatic Lexical extraction
@@ -99,6 +97,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Martínez-Gil, C., Zempoalteca-Pérez, A., Soancatl-Aguilar, V., de Jesús Estudillo-Ayala, M., Lara-Ramírez, J. E., & Alcántara-Santiago, S. (2012). [Computer Systems for Analysis of Nahuatl](http://www.rcs.cic.ipn.mx/2012_47/Computer%20Systems%20for%20Analysis%20of%20Nahuatl.pdf). Research in Computing Science, 47, 11-16.
 
 - Porta, A. O. (2010, July). [The use of formal language models in the typology of the morphology of Amerindian languages](http://www.anthology.aclweb.org/P/P10/P10-3019.pdf). In Proceedings of the ACL 2010 Student Research Workshop (pp. 109-113). Association for Computational Linguistics. (_Toba and Quichua_)
+
+- Medina-Urrea, A. (2008). [Affix discovery based on entropy and economy measurements. Computational Linguistics for Less-Studied Languages](http://web.stanford.edu/group/cslipublications/cslipublications/TLS/TLS10-2006/TLS10_Medina-Urrea.pdf). Texas Linguistics Society 10, 99-112.
 
 - Medina-Urrea, A. (2007). [Affix discovery by means of corpora: Experiments for Spanish, Czech, Ralámuli and Chuj](https://link.springer.com/chapter/10.1007/978-3-540-37522-7_13). In Aspects of Automatic Text Analysis (pp. 277-299). Springer, Berlin, Heidelberg.
 
