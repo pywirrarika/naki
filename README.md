@@ -98,8 +98,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Porta, A. O. (2010, July). [The use of formal language models in the typology of the morphology of Amerindian languages](http://www.anthology.aclweb.org/P/P10/P10-3019.pdf). In Proceedings of the ACL 2010 Student Research Workshop (pp. 109-113). Association for Computational Linguistics. (_Toba and Quichua_)
 
-- Medina-Urrea, A. (2007). [Affix discovery by means of corpora: Experiments for Spanish, Czech, Ralámuli and Chuj]
-(https://link.springer.com/chapter/10.1007/978-3-540-37522-7_13). In Aspects of Automatic Text Analysis (pp. 277-299). Springer, Berlin, Heidelberg.
+- Medina-Urrea, A. (2007). [Affix discovery by means of corpora: Experiments for Spanish, Czech, Ralámuli and Chuj](https://link.springer.com/chapter/10.1007/978-3-540-37522-7_13). In Aspects of Automatic Text Analysis (pp. 277-299). Springer, Berlin, Heidelberg.
 
 ## POS Tagging
 
