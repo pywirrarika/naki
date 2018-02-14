@@ -26,9 +26,13 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Coler M. and Homola Petr. (2014) [Ruble-based machine translation for Aymara](https://www.researchgate.net/publication/230785505_Rule-based_machine_translation_for_Aymara), in book Endangered Languages and New Technologies, Chapter: 4, Publisher: Cambridge University Press, Editors: Mari Jones, pp.67-80
 
+- Rudnick, A., & Gasser, M. (2013). [Lexical selection for hybrid mt with sequence labeling. In Proceedings of the Second Workshop on Hybrid Approaches to Translation](http://www.aclweb.org/anthology/W13-2815) (pp. 102-108).
+
 - Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
 
 - Castro Cavero, Indhira. (2007)[Traductor morfológico del castellano y quechua](https://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf). Revista I+i, vol. 1, no. 1.
+
+- Abdelali, A., Cowie, J., Helmreich, S., Jin, W., Milagros, M. P., Ogden, B., ... & Zacharski, R. (2006, August). [Guarani: a case study in resource development for quick ramp-up MT](https://s3.amazonaws.com/academia.edu.documents/30506035/amta-2006-abdelali.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1518600723&Signature=XX1k2XMaF8%2BRq6WxvBtCFbFv%2Fl4%3D&response-content-disposition=inline%3B%20filename%3DGuarani_a_case_study_in_resource_develop.pdf). In Proceedings of the 7th Conference of the Association for Machine Translation in the Americas,“Visions for the Future of Machine Translation (pp. 1-9).
 
 ## Automatic Lexical extraction
 
