@@ -103,6 +103,12 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Medina-Urrea, A. (2007). [Affix discovery by means of corpora: Experiments for Spanish, Czech, Ralámuli and Chuj](https://link.springer.com/chapter/10.1007/978-3-540-37522-7_13). In Aspects of Automatic Text Analysis (pp. 277-299). Springer, Berlin, Heidelberg.
 
+## Speach Recognition
+
+- Mendels, G., Cooper, E., & Hirschberg, J. (2016). [Babler-data collection from the web to support speech recognition and keyword search](http://www.aclweb.org/anthology/W16-2609). In Proceedings of the 10th Web as Corpus Workshop (pp. 72-81).
+
+- Maldonado, D. M., Villalba Barrientos, R., & Pinto-Roa, D. P. (2016, November). [Eñe’˜ e: Sistema de reconocimiento automático del habla en Guaraní](http://sedici.unlp.edu.ar/bitstream/handle/10915/56979/Documento_completo.pdf?sequence=1). In Simposio Argentino de Inteligencia Artificial (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016)..
+
 ## POS Tagging
 
 - Jose Pereira-Noriega, Rodolfo Mercado-Gonzales, Andrés Melgar, Marco Sobrevilla-Cabezudo, & Arturo Oncevay-Marcos. (2017). [Ship-LemmaTagger: building an NLP toolkit for a peruvian native language](http://chana.inf.pucp.edu.pe/index.php/en/publications/). In Text, Speech, and Dialogue: 20th International Conference, TSD 2017. Springer.
