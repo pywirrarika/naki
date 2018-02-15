@@ -59,6 +59,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific papers**
 
+- Cavar, M., Cavar, D., & Cruz, H. (2016). [Endangered Language Documentation: Bootstrapping a Chatino Speech Corpus, Forced Aligner](https://pdfs.semanticscholar.org/fa97/76c0deb92124497893fdf6e089ca5165bf57.pdf), ASR. In LREC.
 - Kazeminejad, G., Cowell, A., & Hulden, M. (2017). [Creating lexical resources for polysynthetic languages—the case of Arapaho](http://www.aclweb.org/anthology/W/W17/W17-0102.pdf). ComputEL-2, 10. (_Arapaho_)
 
 - Bell, L., & Bell, L. (2017). [Work With What You’ve Got](http://www.aclweb.org/anthology/W/W17/W17-0107.pdf). ComputEL-2, 48. (_haida_)
