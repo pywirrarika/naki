@@ -59,8 +59,9 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific papers**
 
-- Cavar, M., Cavar, D., & Cruz, H. (2016). [Endangered Language Documentation: Bootstrapping a Chatino Speech Corpus, Forced Aligner](https://pdfs.semanticscholar.org/fa97/76c0deb92124497893fdf6e089ca5165bf57.pdf), ASR. In LREC.
 - Kazeminejad, G., Cowell, A., & Hulden, M. (2017). [Creating lexical resources for polysynthetic languages—the case of Arapaho](http://www.aclweb.org/anthology/W/W17/W17-0102.pdf). ComputEL-2, 10. (_Arapaho_)
+
+- Cavar, M., Cavar, D., & Cruz, H. (2016). [Endangered Language Documentation: Bootstrapping a Chatino Speech Corpus, Forced Aligner](https://pdfs.semanticscholar.org/fa97/76c0deb92124497893fdf6e089ca5165bf57.pdf), ASR. In LREC.
 
 - Bell, L., & Bell, L. (2017). [Work With What You’ve Got](http://www.aclweb.org/anthology/W/W17/W17-0107.pdf). ComputEL-2, 48. (_haida_)
 
@@ -113,6 +114,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Mendels, G., Cooper, E., & Hirschberg, J. (2016). [Babler-data collection from the web to support speech recognition and keyword search](http://www.aclweb.org/anthology/W16-2609). In Proceedings of the 10th Web as Corpus Workshop (pp. 72-81).
 
 - Maldonado, D. M., Villalba Barrientos, R., & Pinto-Roa, D. P. (2016, November). [Eñe’˜ e: Sistema de reconocimiento automático del habla en Guaraní](http://sedici.unlp.edu.ar/bitstream/handle/10915/56979/Documento_completo.pdf?sequence=1). In Simposio Argentino de Inteligencia Artificial (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016)..
+
+- Urrea, A. M., Camacho, J. A. H., & Garcıa, M. A. [Towards the Speech Synthesis of Raramuri: A Unit Selection Approach based on Unsupervised Extraction of Suffix Sequences](https://www.cicling.org/2009/RCS-41/243-256.pdf). Advances in Computational Linguistics, 243.
 
 ## POS Tagging
 
