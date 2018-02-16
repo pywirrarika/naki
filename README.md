@@ -20,6 +20,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Mager Hois, Jesús Manuel. (2017). [Traductor híbrido wixárika - español con escasos recursos bilingües](http://code.kiutz.com/tesism/tesis.pdf). Universidad Autónoma Metropolitana. 
 
+- Rios, A. (2016). [A basic language technology toolkit for Quechua](https://rua.ua.es/dspace/bitstream/10045/53566/1/PLN_56_10.pdf). 
+
 - González Hernández, José C. (2016). [Herramienta de traduccin automática de wayuunaiki a español. Caso de estudio: sintagmas nominales y verbales simples](https://www.dropbox.com/s/kqfos49lw36oras/Trabajo%20Especial%20de%20Grado.pdf?dl=0). Universidad de Zulia. 
 
 - Mager Hois, J. M., Barrón Romero, C., & Meza Ruiz, I. V. (2016). [Traductor estadístico wixarika-español usando descomposición morfológica](http://code.kiutz.com/arts/COMTEL2016.pdf). In COMTEL 2016.
@@ -75,6 +77,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Goldhahn, D., Eckart, T., & Quasthoff, U. (2012). [Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages](https://pdfs.semanticscholar.org/1b56/0f892432fb853d233c92f9294640bc91de3c.pdf). In LREC (pp. 759-765).
 
+- Rios, A., Göhring, A., & Volk, M. (2008). [A Quechua-Spanish parallel treebank](https://dspace.library.uu.nl/bitstream/handle/1874/296798/bookpart.pdf). LOT Occasional Series, 12, 53-64.
 
 ## Morphologcal analysis and segmentation
 
@@ -124,6 +127,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 ## Parsing
 
 - Homola, P. (2011, September). [Parsing a Polysynthetic Language](http://anthology.aclweb.org/R/R11/R11-1079.pdf). In RANLP (pp. 562-567). (_Ayamara_)
+
+- Agić, Ž., Johannsen, A., Plank, B., Martínez, H. A., Schluter, N., & Søgaard, A. (2016). [Multilingual projection for parsing truly low-resource languages.](http://bib.irb.hr/datoteka/827066.agic2016-multilingual.pdf) Transactions of the Association for Computational Linguistics, 4, 301.
 
 ## OCR
 
