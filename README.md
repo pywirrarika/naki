@@ -104,6 +104,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Snoek, C., Thunder, D., Loo, K., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2014, June). [Modeling the noun morphology of Plains Cree](http://www.anthology.aclweb.org/W/W14/W14-2205.pdf). In Proceedings of the 2014 Workshop on the Use of Computational Methods in the Study of Endangered Languages (pp. 34-42). (_Cree_)
 
+- Gonzales, A. R., & Mamani, R. A. C. (2014). [Morphological Disambiguation and Text Normalization for Southern Quechua Varieties](http://www.aclweb.org/anthology/W14-5305). In Proceedings of the First Workshop on Applying NLP Tools to Similar Languages, Varieties and Dialects (pp. 39-47).
+
 - Dunham, J., Cook, G., & Horner, J. (2014). [LingSync & the Online Linguistic Database: New models for the collection and management of data for language communities, linguists and language learners](http://www.aclweb.org/anthology/W14-2204). In Proceedings of the 2014 Workshop on the Use of Computational Methods in the Study of Endangered Languages (pp. 24-33).
 
 - Assini, A. A. (2013). [Natural language processing and the Mohawk language: creating a finite state morphological parser of Mohawk formal nouns](https://ulir.ul.ie/bitstream/handle/10344/3574/assini_2013_natural.pdf?sequence=5). University of Limerik.
