@@ -88,6 +88,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific Papers**
 
+
+
 - Harrigan, A. G., Schmirler, K., Arppe, A., Antonsen, L., Trosterud, T., & Wolvengrey, A. (2017). [Learning from the computational modelling of Plains Cree verbs](https://link.springer.com/article/10.1007/s11525-017-9315-x). Morphology, 27(4), 565-598.
 
 - Cotterell, R., Kirov, C., Sylak-Glassman, J., Walther, G., Vylomova, E., Xia, P., & Faruqui, M. (2017). [CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages](http://www.aclweb.org/anthology/K17-2001). CoNLL SIGMORPHON, 1. (_Haida, Navajo, Quechua_)
@@ -101,6 +103,10 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Sylak-Glassman, J., Kirov, C., & Yarowsky, D. (2016). [Remote Elicitation of Inflectional Paradigms to Seed Morphological Analysis in Low-Resource Languages](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1031_Paper.pdf). In LREC. (Also includes some experiments with Nahuatl)
 
 - Snoek, C., Thunder, D., Loo, K., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2014, June). [Modeling the noun morphology of Plains Cree](http://www.anthology.aclweb.org/W/W14/W14-2205.pdf). In Proceedings of the 2014 Workshop on the Use of Computational Methods in the Study of Endangered Languages (pp. 34-42). (_Cree_)
+
+- Dunham, J., Cook, G., & Horner, J. (2014). [LingSync & the Online Linguistic Database: New models for the collection and management of data for language communities, linguists and language learners](http://www.aclweb.org/anthology/W14-2204). In Proceedings of the 2014 Workshop on the Use of Computational Methods in the Study of Endangered Languages (pp. 24-33).
+
+- Assini, A. A. (2013). [Natural language processing and the Mohawk language: creating a finite state morphological parser of Mohawk formal nouns](https://ulir.ul.ie/bitstream/handle/10344/3574/assini_2013_natural.pdf?sequence=5). University of Limerik.
 
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
 
