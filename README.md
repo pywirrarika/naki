@@ -38,6 +38,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Monson, C., Llitjós, A. F., Aranovich, R., Levin, L., Brown, R., Peterson, E., ... & Lavie, A. (2006). [Building NLP systems for two resource-scarce indigenous languages: mapudungun and Quechua. Strategies for developing machine translation for minority languages](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/OldFiles/OldFiles/Nice/Papers/esslli-06/ResourceScarceLanguageEngineeringWorkshop9.pdf), 15.
 
+- Llitjós, A. F., Aranovich, R., & Levin, L. (2005). [Building Machine translation systems for indigenous languages](http://www.cs.cmu.edu/~aria/Papers/FontAranovich_CILLA2_mapuche_quechua(2).pdf). In Second Conference on the Indigenous Languages of Latin America (CILLA II), Texas, USA.
+
 ## Automatic Lexical extraction
 
 **Scientific papers**
