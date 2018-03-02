@@ -36,6 +36,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Abdelali, A., Cowie, J., Helmreich, S., Jin, W., Milagros, M. P., Ogden, B., ... & Zacharski, R. (2006, August). [Guarani: a case study in resource development for quick ramp-up MT](https://s3.amazonaws.com/academia.edu.documents/30506035/amta-2006-abdelali.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1518600723&Signature=XX1k2XMaF8%2BRq6WxvBtCFbFv%2Fl4%3D&response-content-disposition=inline%3B%20filename%3DGuarani_a_case_study_in_resource_develop.pdf). In Proceedings of the 7th Conference of the Association for Machine Translation in the Americas,“Visions for the Future of Machine Translation (pp. 1-9).
 
+- Monson, C., Llitjós, A. F., Aranovich, R., Levin, L., Brown, R., Peterson, E., ... & Lavie, A. (2006). [Building NLP systems for two resource-scarce indigenous languages: mapudungun and Quechua. Strategies for developing machine translation for minority languages](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/OldFiles/OldFiles/Nice/Papers/esslli-06/ResourceScarceLanguageEngineeringWorkshop9.pdf), 15.
+
 ## Automatic Lexical extraction
 
 **Scientific papers**
@@ -78,6 +80,10 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Goldhahn, D., Eckart, T., & Quasthoff, U. (2012). [Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages](https://pdfs.semanticscholar.org/1b56/0f892432fb853d233c92f9294640bc91de3c.pdf). In LREC (pp. 759-765).
 
 - Rios, A., Göhring, A., & Volk, M. (2008). [A Quechua-Spanish parallel treebank](https://dspace.library.uu.nl/bitstream/handle/1874/296798/bookpart.pdf). LOT Occasional Series, 12, 53-64.
+
+- Monson, C., Levin, L., Vega, R. M., Brown, R. D., Font-Llitjos, A., Lavie, A., ... & Huisca, R. (2004). [Data Collection and Analysis of Mapudungun Morphology for Spelling Correction.](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1303&context=compsci) Computer Science Department, 300.
+
+
 
 ## Morphologcal analysis and segmentation
 
