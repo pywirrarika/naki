@@ -62,6 +62,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
 - [Shipibo-Konbio POS-tag corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/pos-tagger/)
 - [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
+- [Morphological Analyzer for the Bribri language of the Chibchense family](http://morphology.bribri.net/)
 
 **Scientific papers**
 
