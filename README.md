@@ -28,6 +28,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Coler M. and Homola Petr. (2014) [Ruble-based machine translation for Aymara](https://www.researchgate.net/publication/230785505_Rule-based_machine_translation_for_Aymara), in book Endangered Languages and New Technologies, Chapter: 4, Publisher: Cambridge University Press, Editors: Mari Jones, pp.67-80
 
+- Fernández, D. I., Gamboa, O. Q., Atencia, J. M., & Bedoya, O. E. H. (2013, May). [Design and implementation of an “Web API” for the automatic translation Colombia's language pairs: Spanish-Wayuunaiki case.](https://www.researchgate.net/profile/Oscar_Bedoya4/publication/261093999_Design_and_implementation_of_an_Web_API_for_the_automatic_translation_Colombia%27s_language_pairs_Spanish-Wayuunaiki_case/links/57d019a108ae0c0081de9ea7/Design-and-implementation-of-an-Web-API-for-the-automatic-translation-Colombias-language-pairs-Spanish-Wayuunaiki-case.pdf) In Communications and Computing (COLCOM), 2013 IEEE Colombian Conference on (pp. 1-9). IEEE.
+
 - Rudnick, A., & Gasser, M. (2013). [Lexical selection for hybrid mt with sequence labeling. In Proceedings of the Second Workshop on Hybrid Approaches to Translation](http://www.aclweb.org/anthology/W13-2815) (pp. 102-108).
 
 - Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
@@ -79,7 +81,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Christodouloupoulos, C., & Steedman, M. (2015). [A massively parallel corpus: the Bible in 100 languages. Language resources and evaluation](http://link.springer.com/article/10.1007/s10579-014-9287-y), 49(2), 375-395.
 
-- Fernández, D. I., Gamboa, O. Q., Atencia, J. M., & Bedoya, O. E. H. (2013, May). [Design and implementation of an “Web API” for the automatic translation Colombia's language pairs: Spanish-Wayuunaiki case.](https://www.researchgate.net/profile/Oscar_Bedoya4/publication/261093999_Design_and_implementation_of_an_Web_API_for_the_automatic_translation_Colombia%27s_language_pairs_Spanish-Wayuunaiki_case/links/57d019a108ae0c0081de9ea7/Design-and-implementation-of-an-Web-API-for-the-automatic-translation-Colombias-language-pairs-Spanish-Wayuunaiki-case.pdf) In Communications and Computing (COLCOM), 2013 IEEE Colombian Conference on (pp. 1-9). IEEE.
+
 
 - Goldhahn, D., Eckart, T., & Quasthoff, U. (2012). [Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages](https://pdfs.semanticscholar.org/1b56/0f892432fb853d233c92f9294640bc91de3c.pdf). In LREC (pp. 759-765).
 
