@@ -1,6 +1,6 @@
 ## About Naki
 
-This page (tries) to assemble all done works on Natural Language Processing (NLP) for native and indigenous languages of the American continent. Our languages are in danger, especially if they don't get involved in the new digital boom, that is introduced even into the most remote communities. Nevertheless, scientific and engineering work has been done on the field, ant this work wants to generate an (as much as possible) complete list. 
+This page (tries) to assemble all the research on Natural Language Processing (NLP) for native and indigenous languages of the American continent. Our languages are in danger, especially if they don't get involved in the new digital boom, that is introduced even into the most remote communities. Nevertheless, scientific and engineering work has been done in the field, and this work wants to generatea an (as much as possible) complete list. 
 
 Our main aim is to encourage native speakers, researchers, and engineers to participate in this effort. Hopefully, we can do it with these survey. 
 
@@ -181,5 +181,5 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 ## Contact
 
-This effort can be completed only with the cooperation of all visitors. If you know about some work in this field, please let me know and push to this repositoy or send an email to mmager [at] thuring.iimas.unam.mx
+This effort can be completed only with the cooperation of all visitors. If you know about some work in this field, please let me know and push to this repositoy or send an email to mmager [at] thuring.iimas.unam.mx or visit my personal [web page](http://code.kiutz.com).
 
