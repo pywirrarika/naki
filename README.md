@@ -101,7 +101,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific Papers**
 
-
+- Harrigan, A. G., Schmirler, K., Arppe, A., Antonsen, L., Trosterud, T., & Wolvengrey, A. (2017). [Learning from the computational modelling of Plains Cree verbs. Morphology](https://www.researchgate.net/publication/320717891_Learning_from_the_computational_modelling_of_Plains_Cree_verbs), 27(4), 565-598.
 
 - Harrigan, A. G., Schmirler, K., Arppe, A., Antonsen, L., Trosterud, T., & Wolvengrey, A. (2017). [Learning from the computational modelling of Plains Cree verbs](https://link.springer.com/article/10.1007/s11525-017-9315-x). Morphology, 27(4), 565-598.
 
@@ -132,6 +132,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Medina-Urrea, A. (2008). [Affix discovery based on entropy and economy measurements. Computational Linguistics for Less-Studied Languages](http://web.stanford.edu/group/cslipublications/cslipublications/TLS/TLS10-2006/TLS10_Medina-Urrea.pdf). Texas Linguistics Society 10, 99-112.
 
 - Medina-Urrea, A. (2007). [Affix discovery by means of corpora: Experiments for Spanish, Czech, Ralámuli and Chuj](https://link.springer.com/chapter/10.1007/978-3-540-37522-7_13). In Aspects of Automatic Text Analysis (pp. 277-299). Springer, Berlin, Heidelberg.
+
+- Wolfart, H. C., & Pardo, F. (1973). [Computer-assisted linguistic analysis](http://mspace.lib.umanitoba.ca/bitstream/handle/1993/18303/Wolfart,%20Computer-Assisted.pdf?sequence=1), University of Manitoba Anthropology Papers.
 
 ## Speach Recognition
 
