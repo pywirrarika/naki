@@ -81,8 +81,6 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Christodouloupoulos, C., & Steedman, M. (2015). [A massively parallel corpus: the Bible in 100 languages. Language resources and evaluation](http://link.springer.com/article/10.1007/s10579-014-9287-y), 49(2), 375-395.
 
-
-
 - Goldhahn, D., Eckart, T., & Quasthoff, U. (2012). [Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages](https://pdfs.semanticscholar.org/1b56/0f892432fb853d233c92f9294640bc91de3c.pdf). In LREC (pp. 759-765).
 
 - Rios, A., Göhring, A., & Volk, M. (2008). [A Quechua-Spanish parallel treebank](https://dspace.library.uu.nl/bitstream/handle/1874/296798/bookpart.pdf). LOT Occasional Series, 12, 53-64.
@@ -100,7 +98,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - [Morphological Analyzer for the Bribri language of the Chibchense family](http://morphology.bribri.net/)
 
 **Scientific Papers**
-
+- Kann, K., Mager, M., Meza-Ruiz, I., & Schütze, H. (2018). [Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages](https://arxiv.org/pdf/1804.06024.pdf). *16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies NAACL-HLT*, New Orleans, Louisiana, US. June, 2018..
 
 - Harrigan, A. G., Schmirler, K., Arppe, A., Antonsen, L., Trosterud, T., & Wolvengrey, A. (2017). [Learning from the computational modelling of Plains Cree verbs](https://link.springer.com/article/10.1007/s11525-017-9315-x). Morphology, 27(4), 565-598.
 
