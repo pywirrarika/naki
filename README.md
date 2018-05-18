@@ -188,3 +188,10 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 This effort can be completed only with the cooperation of all visitors. If you know about some work in this field, please let me know and push to this repositoy or send an email to mmager [at] thuring.iimas.unam.mx or visit my personal [web page](http://code.kiutz.com).
 
+## How to cite
+
+If you found this information usfull for your academic research please acknowledge its use with a citation:
+
+Mager, M., Gutierrez. X., Sierra, G., and Meza, I. (2018, August).  Challenges of language technologies for the Americas indigenous languages. In Proceedings of the 27th international conference on Computational linguistics. Association for Computational Linguistics.
+
+
