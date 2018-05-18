@@ -192,6 +192,6 @@ This effort can be completed only with the cooperation of all visitors. If you k
 
 If you found this information usfull for your academic research please acknowledge its use with a citation:
 
-Mager, M., Gutierrez. X., Sierra, G., and Meza, I. (2018, August).  Challenges of language technologies for the Americas indigenous languages. In Proceedings of the 27th international conference on Computational linguistics. Association for Computational Linguistics.
+Mager, M., Gutierrez. X., Sierra, G., and Meza, I. (2018, August).  *Challenges of language technologies for the Americas indigenous languages*. In Proceedings of the 27th international conference on Computational linguistics. Association for Computational Linguistics.
 
 
