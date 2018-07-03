@@ -67,6 +67,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific papers**
 
+- Katherine M. Schmirler, Antti Arppe, Atticus G. Harrigan & Antti Arppe. (2017). [A Morphologically Tagged Corpus for Plains Cree](https://altlab.artsrn.ualberta.ca/wp-content/uploads/2017/09/PWOLL_2017.pdf). 4th Prairie Workshop on Language and Linguistics, University of Saskatchewan, March 18, 2017.
+
 - Kazeminejad, G., Cowell, A., & Hulden, M. (2017). [Creating lexical resources for polysynthetic languages—the case of Arapaho](http://www.aclweb.org/anthology/W/W17/W17-0102.pdf). ComputEL-2, 10. (_Arapaho_)
 
 - Cavar, M., Cavar, D., & Cruz, H. (2016). [Endangered Language Documentation: Bootstrapping a Chatino Speech Corpus, Forced Aligner](https://pdfs.semanticscholar.org/fa97/76c0deb92124497893fdf6e089ca5165bf57.pdf), ASR. In LREC.
@@ -100,6 +102,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 **Scientific Papers**
 - Kann, K., Mager, M., Meza-Ruiz, I., & Schütze, H. (2018). [Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages](https://arxiv.org/pdf/1804.06024.pdf). *16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies NAACL-HLT*, New Orleans, Louisiana, US. June, 2018..
 
+- Antti Arppe, Christopher Cox, Mans Hulden, Jordan Lachler, Sjur N. Moshagen, Miikka Silfverberg & Trond Trosterud (2017) [Computational modeling of the verb in Dene languages](http://altlab.artsrn.ualberta.ca/wp-content/uploads/2017/05/ComputationalModelingofVerbsinDeneLanguages_170402.pdf). The case of Tsuut’ina. Working Papers in Athabascan Linguistics (“Red Book” series), Alaska Native Language Center, pp. 51-68.
+
 - Harrigan, A. G., Schmirler, K., Arppe, A., Antonsen, L., Trosterud, T., & Wolvengrey, A. (2017). [Learning from the computational modelling of Plains Cree verbs](https://link.springer.com/article/10.1007/s11525-017-9315-x). Morphology, 27(4), 565-598.
 
 - Cotterell, R., Kirov, C., Sylak-Glassman, J., Walther, G., Vylomova, E., Xia, P., & Faruqui, M. (2017). [CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages](http://www.aclweb.org/anthology/K17-2001). CoNLL SIGMORPHON, 1. (_Haida, Navajo, Quechua_)
@@ -111,6 +115,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Arppe, A., Junker, M. O., & Torkornoo, D. (2017). [Converting a comprehensive lexical database into a computational model: The case of East Cree verb inflection](http://www.aclweb.org/anthology/W/W17/W17-0108.pdf). ComputEL-2, 52. (_Cree_)
 
 - Sylak-Glassman, J., Kirov, C., & Yarowsky, D. (2016). [Remote Elicitation of Inflectional Paradigms to Seed Morphological Analysis in Low-Resource Languages](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1031_Paper.pdf). In LREC. (Also includes some experiments with Nahuatl)
+
+- Christopher Cox, Måns Huldén, Miikka Silfverberg, Jordan Lachler, Sally Rice, Sjur N. Moshagen, Trond Trosterud & Antti Arppe (2016) [Computational modeling of the verb in Dene languages. The case of Tsuut’ina](https://altlab.artsrn.ualberta.ca/wp-content/uploads/2016/07/Tsuutina-FST-DLC-160607B.pdf). Dene Languages Conference, Yellowknife, North-West Territories, Canada, 6-7 June 2016.
 
 - Snoek, C., Thunder, D., Loo, K., Arppe, A., Lachler, J., Moshagen, S., & Trosterud, T. (2014, June). [Modeling the noun morphology of Plains Cree](http://www.anthology.aclweb.org/W/W14/W14-2205.pdf). In Proceedings of the 2014 Workshop on the Use of Computational Methods in the Study of Endangered Languages (pp. 34-42). (_Cree_)
 
