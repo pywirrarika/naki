@@ -64,6 +64,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
 - [Shipibo-Konbio POS-tag corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/pos-tagger/)
 - [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
+- [Siminchikkunarayku: A Speech Corpus for Preservation of Southern Quechua](https://siminchikkunarayku.pe/)
 
 **Scientific papers**
 
