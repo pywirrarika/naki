@@ -67,6 +67,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 **Scientific papers**
 
+- Zevallos R. & Camacho L. (2018) [Siminchik: A Speech Corpus for Preservation of Southern Quechua](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf). Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan.
+
 - Katherine M. Schmirler, Antti Arppe, Atticus G. Harrigan & Antti Arppe. (2017). [A Morphologically Tagged Corpus for Plains Cree](https://altlab.artsrn.ualberta.ca/wp-content/uploads/2017/09/PWOLL_2017.pdf). 4th Prairie Workshop on Language and Linguistics, University of Saskatchewan, March 18, 2017.
 
 - Kazeminejad, G., Cowell, A., & Hulden, M. (2017). [Creating lexical resources for polysynthetic languages—the case of Arapaho](http://www.aclweb.org/anthology/W/W17/W17-0102.pdf). ComputEL-2, 10. (_Arapaho_)
@@ -145,6 +147,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 - Maldonado, D. M., Villalba Barrientos, R., & Pinto-Roa, D. P. (2016, November). [Eñe’˜ e: Sistema de reconocimiento automático del habla en Guaraní](http://sedici.unlp.edu.ar/bitstream/handle/10915/56979/Documento_completo.pdf?sequence=1). In Simposio Argentino de Inteligencia Artificial (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016)..
 
 - Urrea, A. M., Camacho, J. A. H., & Garcıa, M. A. [Towards the Speech Synthesis of Raramuri: A Unit Selection Approach based on Unsupervised Extraction of Suffix Sequences](https://www.cicling.org/2009/RCS-41/243-256.pdf). Advances in Computational Linguistics, 243.
+
+Nolazco-Flores, J. A., Salgado-Garza, L. R., & Peña-Díaz, M. (2005, June). [Speaker dependent ASRs for huastec and western-huastec náhuatl languages](https://link.springer.com/chapter/10.1007/11492542_73). In Iberian Conference on Pattern Recognition and Image Analysis (pp. 595-602). Springer, Berlin, Heidelberg.
 
 ## POS Tagging
 
