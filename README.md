@@ -147,6 +147,8 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Maldonado, D. M., Villalba Barrientos, R., & Pinto-Roa, D. P. (2016, November). [Eñe’˜ e: Sistema de reconocimiento automático del habla en Guaraní](http://sedici.unlp.edu.ar/bitstream/handle/10915/56979/Documento_completo.pdf?sequence=1). In Simposio Argentino de Inteligencia Artificial (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016)..
 
+- DiCanio, C., Nam, H., Whalen, D. H., Timothy Bunnell, H., Amith, J. D., & García, R. C. (2013). [Using automatic alignment to analyze endangered language data: Testing the viability of untrained alignment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5392066/). The Journal of the Acoustical Society of America, 134(3), 2235-2246.(For Mixtec)
+
 - Urrea, A. M., Camacho, J. A. H., & Garcıa, M. A. [Towards the Speech Synthesis of Raramuri: A Unit Selection Approach based on Unsupervised Extraction of Suffix Sequences](https://www.cicling.org/2009/RCS-41/243-256.pdf). Advances in Computational Linguistics, 243.
 
 Nolazco-Flores, J. A., Salgado-Garza, L. R., & Peña-Díaz, M. (2005, June). [Speaker dependent ASRs for huastec and western-huastec náhuatl languages](https://link.springer.com/chapter/10.1007/11492542_73). In Iberian Conference on Pattern Recognition and Image Analysis (pp. 595-602). Springer, Berlin, Heidelberg.
