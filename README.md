@@ -151,7 +151,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 - Urrea, A. M., Camacho, J. A. H., & Garcıa, M. A. [Towards the Speech Synthesis of Raramuri: A Unit Selection Approach based on Unsupervised Extraction of Suffix Sequences](https://www.cicling.org/2009/RCS-41/243-256.pdf). Advances in Computational Linguistics, 243.
 
-Nolazco-Flores, J. A., Salgado-Garza, L. R., & Peña-Díaz, M. (2005, June). [Speaker dependent ASRs for huastec and western-huastec náhuatl languages](https://link.springer.com/chapter/10.1007/11492542_73). In Iberian Conference on Pattern Recognition and Image Analysis (pp. 595-602). Springer, Berlin, Heidelberg.
+- Nolazco-Flores, J. A., Salgado-Garza, L. R., & Peña-Díaz, M. (2005, June). [Speaker dependent ASRs for huastec and western-huastec náhuatl languages](https://link.springer.com/chapter/10.1007/11492542_73). In Iberian Conference on Pattern Recognition and Image Analysis (pp. 595-602). Springer, Berlin, Heidelberg.
 
 ## POS Tagging
 
