@@ -1,4 +1,8 @@
+
 ## About Naki
+
+![Naki](http://turing.iimas.unam.mx/wix/static/img/banner.jpg "NLP for our languages")
+
 
 This page tries to assemble all the research on Natural Language Processing (NLP) for native and indigenous languages of the American continent. Our languages are in danger, especially if they don't get involved in the new digital boom, that is introduced even into the most remote communities. Nevertheless, scientific and engineering work has been done in the field, much more work is necessary to archive usable tools that can compete with the products from the big companies (as Google Translate, Alexa, etc.).  To push forward this effort,  this work wants to generate an (as much as possible) complete list.
 
