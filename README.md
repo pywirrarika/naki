@@ -1,8 +1,10 @@
 ## About Naki
 
-This page (tries) to assemble all the research on Natural Language Processing (NLP) for native and indigenous languages of the American continent. Our languages are in danger, especially if they don't get involved in the new digital boom, that is introduced even into the most remote communities. Nevertheless, scientific and engineering work has been done in the field, and this work wants to generatea an (as much as possible) complete list. 
+This page tries to assemble all the research on Natural Language Processing (NLP) for native and indigenous languages of the American continent. Our languages are in danger, especially if they don't get involved in the new digital boom, that is introduced even into the most remote communities. Nevertheless, scientific and engineering work has been done in the field, much more work is necessary to archive usable tools that can compete with the products from the big companies (as Google Translate, Alexa, etc.).  To push forward this effort,  this work wants to generate an (as much as possible) complete list.
 
-Our main aim is to encourage native speakers, researchers, and engineers to participate in this effort. Hopefully, we can do it with these survey. 
+Our main aim is to encourage native speakers, researchers, and engineers to participate in this effort. Hopefully, we can do it with these survey.
+
+If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](https://arxiv.org/pdf/1806.04291).
 
 ## Machine Translation
 
@@ -204,5 +206,13 @@ This effort can be completed only with the cooperation of all visitors. If you k
 If you found this information usfull for your academic research please acknowledge its use with a citation:
 
 Mager, M., Gutierrez. X., Sierra, G., and Meza, I. (2018, August).  *Challenges of language technologies for the Americas indigenous languages*. In Proceedings of the 27th international conference on Computational linguistics. Association for Computational Linguistics.
+```bibtex
+@article{mager2018challenges,
+  title={Challenges of language technologies for the indigenous languages of the Americas},
+  author={Mager, Manuel and Gutierrez-Vasques, Ximena and Sierra, Gerardo and Meza, Ivan},
+  journal={arXiv preprint arXiv:1806.04291},
+  year={2018}
+}
+```
 
 
