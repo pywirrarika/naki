@@ -205,7 +205,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Contact
 
-This effort can be completed only with the cooperation of all visitors. If you know about some work in this field, please let me know and push to this repositoy or send an email to mmager [at] thuring.iimas.unam.mx or visit my personal [web page](http://code.kiutz.com).
+This effort can be completed only with the cooperation of all visitors. If you know about some work in this field, please let me know and push to this repositoy or send an email to mmager [at] turing.iimas.unam.mx or visit my personal [web page](http://code.kiutz.com).
 
 ## How to cite
 
