@@ -22,6 +22,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers and thesis**
 
+- Mager, M., & Meza, I. (2018). [Hacia la traducción automática de las lenguas indıgenas de méxico](https://dh2018.adho.org/hacia-la-traduccion-automatica-de-las-lenguas-indigenas-de-mexico/). In Proceedings of the 2018 Digital Humanities Conference. The Association of Digital Humanities Organizations.
+
 - Galarreta, A. P., Melgar, A. & Ocevay, A. (September, 2017). [Corpus Creation and Initial SMT Experiments between Spanish and Shipibo-konibo](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP033.pdf). In RANLP 2017 (p. 238-244). 
 
 - Mager Hois, Jesús Manuel. (2017). [Traductor híbrido wixárika - español con escasos recursos bilingües](http://code.kiutz.com/tesism/tesis.pdf). Universidad Autónoma Metropolitana. 
