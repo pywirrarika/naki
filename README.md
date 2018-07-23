@@ -181,9 +181,15 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Carlo Alva and Arturo Oncevay-Marcos. (2017). [Spell-checking based on syllabification and character-level graphs for a peruvian agglutinative language](http://www.aclweb.org/anthology/W17-4116). In Proceedings of the EMNLP 2017 Workshop on Subword & Character Level Models in NLP, SCLeM 2017. ACL Anthology.
 
+## WordNet
+
+- Valencia, D. M., Oncevay-Marcos, A., & Cabezudo, M. A. S. (2018). [WordNet-Shp: Towards the Building of a Lexical Database for a Peruvian Minority Language](http://www.lrec-conf.org/proceedings/lrec2018/pdf/1044.pdf). In LREC.
+
 ## Language ID
 
-- Alexandra Espichán-Linares and Arturo Oncevay-Marcos. 2017. A low-resourced peruvian language identification model. In Proceedings of the SIMBig 2017 Track on Applied Natural Language Processing, ANLP 2017. Springer. In-press.
+- Espichán-Linares, A., & Oncevay-Marcos, A. (2017, September). [Language Identification with Scarce Data: A Case Study from Peru](http://chana.inf.pucp.edu.pe/papers/3-language-identification-scarce.pdf). In Annual International Symposium on Information Management and Big Data (pp. 90-105). Springer, Cham.
+
+- Alexandra Espichán-Linares and Arturo Oncevay-Marcos. 2017. [A low-resourced peruvian language identification model](http://ceur-ws.org/Vol-2029/paper3.pdf). In Proceedings of the SIMBig 2017 Track on Applied Natural Language Processing, ANLP 2017. Springer.
 
 - Xia, F., Lewis, C., & Lewis, W. D. (2010). [The Problems of Language Identification within Hugely Multilingual Data Sets](http://mt-archive.info/LREC-2010-Xia.pdf). In LREC.
 
@@ -197,7 +203,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Tools
 
-- [ChAnot: An intelligent annotation tool for indigenous and highly agglutinative languages in Peru.](https://github.com/iapucp/chanot-lrec2018)
+- Mercado-Gonzales, R., Pereira-Noriega, J., Cabezudo, M. A. S., & Oncevay-Marcos, A. (2018). [ChAnot: An intelligent annotation tool for indigenous and highly agglutinative languages in Peru.](https://github.com/iapucp/chanot-lrec2018). In LREC.
 
 - Flores Solórzano, S. (2012). [Teclado chibcha: un software lingüístico para los sistemas de escritura de las lenguas bribri y cabécar.](http://repositorio.ucr.ac.cr/bitstream/handle/10669/14459/1110-1580-1-SM.pdf) Revista de Filología y Lingüística de la Universidad de Costa Rica Vol. 36 Núm. 2.
 
