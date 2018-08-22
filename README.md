@@ -8,7 +8,7 @@ This page tries to assemble all the research on Natural Language Processing (NLP
 
 Our main aim is to encourage native speakers, researchers, and engineers to participate in this effort. Hopefully, we can do it with these survey.
 
-If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](https://arxiv.org/pdf/1806.04291).
+If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
 ## Machine Translation
 
@@ -220,12 +220,20 @@ This effort can be completed only with the cooperation of all visitors. If you k
 If you found this information usfull for your academic research please acknowledge its use with a citation:
 
 Mager, M., Gutierrez. X., Sierra, G., and Meza, I. (2018, August).  *Challenges of language technologies for the Americas indigenous languages*. In Proceedings of the 27th international conference on Computational linguistics. Association for Computational Linguistics.
+
 ```bibtex
-@article{mager2018challenges,
-  title={Challenges of language technologies for the indigenous languages of the Americas},
-  author={Mager, Manuel and Gutierrez-Vasques, Ximena and Sierra, Gerardo and Meza, Ivan},
-  journal={arXiv preprint arXiv:1806.04291},
-  year={2018}
+@InProceedings{C18-1006,
+  author = 	"Mager, Manuel
+		and Gutierrez-Vasques, Ximena
+		and Sierra, Gerardo
+		and Meza-Ruiz, Ivan",
+  title = 	"Challenges of language technologies for the indigenous languages of the Americas",
+  booktitle = 	"Proceedings of the 27th International Conference on Computational Linguistics",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"55--69",
+  location = 	"Santa Fe, New Mexico, USA",
+  url = 	"http://aclweb.org/anthology/C18-1006"
 }
 ```
 
