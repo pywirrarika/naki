@@ -139,6 +139,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Vilca, C., David, H., Mariñó, C., Cagniy, F., & Mamani Calderon, E. F. (2013). [Analizador morfológico de la lengua quechua basado en software libre helsinkifinite-statetransducer (hfst)](http://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf).
 
+- Nicholson, J., Cohn, T., & Baldwin, T. (2012). [Evaluating a Morphological Analyser of Inuktitut](http://www.aclweb.org/anthology/N12-1040). NAACL HLT 2012, 372.
+
 - Martínez-Gil, C., Zempoalteca-Pérez, A., Soancatl-Aguilar, V., de Jesús Estudillo-Ayala, M., Lara-Ramírez, J. E., & Alcántara-Santiago, S. (2012). [Computer Systems for Analysis of Nahuatl](http://www.rcs.cic.ipn.mx/2012_47/Computer%20Systems%20for%20Analysis%20of%20Nahuatl.pdf). Research in Computing Science, 47, 11-16.
 
 - Porta, A. O. (2010, July). [The use of formal language models in the typology of the morphology of Amerindian languages](http://www.anthology.aclweb.org/P/P10/P10-3019.pdf). In Proceedings of the ACL 2010 Student Research Workshop (pp. 109-113). Association for Computational Linguistics. (_Toba and Quichua_)
