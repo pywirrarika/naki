@@ -64,6 +64,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Online Corpus Resources**
 - [Inukitut Morhological Database](http://www.inuktitutcomputing.ca/DataBase/info.php)
+- [English-Inuktitut Parallel Corpus](http://www.inuktitutcomputing.ca/NunavutHansard/en/index-VX.html)
 - [Nahuatl-Spanish, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
 - [Gran diccionario Nahuatl](http://www.gdn.unam.mx/)
 - [Wixarika-Spanish](https://raw.githubusercontent.com/pywirrarika/wixarikacorpora/master/largecorpus.wixes) Parallel Wixarika - Spanish
@@ -100,6 +101,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Monson, C., Levin, L., Vega, R. M., Brown, R. D., Font-Llitjos, A., Lavie, A., ... & Huisca, R. (2004). [Data Collection and Analysis of Mapudungun Morphology for Spelling Correction.](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1303&context=compsci) Computer Science Department, 300.
 
+- Martin, J., Johnson, H., Farley, B., & Maclachlan, A. (2003). [Aligning and Using an English-Inuktitut Parallel Corpus](http://www.aclweb.org/anthology/W03-0320). In Proceedings of the HLT-NAACL 2003 Workshop on Building and Using Parallel Texts: Data Driven Machine Translation and Beyond.
 
 
 ## Morphologcal analysis and segmentation
