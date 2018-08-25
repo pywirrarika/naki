@@ -22,6 +22,10 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers and thesis**
 
+- Mager, M., Mager, E., Medina-Urrea, A., Ruiz, I. V. M., & Kann, K. (2018). [Lost in Translation: Analysis of Information Loss During Machine Translation Between Polysynthetic and Fusional Languages](http://www.aclweb.org/anthology/W18-4808). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 73-83).
+
+- Micher, J. (2018). [Using the Nunavut Hansard Data for Experiments in Morphological Analysis and Machine Translation](http://www.aclweb.org/anthology/W18-4807). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 65-72).
+
 - Mager, M., & Meza, I. (2018). [Hacia la traducción automática de las lenguas indıgenas de méxico](https://dh2018.adho.org/hacia-la-traduccion-automatica-de-las-lenguas-indigenas-de-mexico/). In Proceedings of the 2018 Digital Humanities Conference. The Association of Digital Humanities Organizations.
 
 - Galarreta, A. P., Melgar, A. & Ocevay, A. (September, 2017). [Corpus Creation and Initial SMT Experiments between Spanish and Shipibo-konibo](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP033.pdf). In RANLP 2017 (p. 238-244). 
@@ -77,6 +81,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers**
 
+- Moeller, S., & Hulden, M. (2018). [Automatic Glossing in a Low-Resource Setting for Language Documentation](http://www.aclweb.org/anthology/W18-4809). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 84-93).
+
 - Ronald Cardenas, Rodolfo Zevallos,Reynaldo Baquerizo & Luis Camacho (2018) [Siminchik: A Speech Corpus for Preservation of Southern Quechua](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf). Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan.
 
 - Katherine M. Schmirler, Antti Arppe, Atticus G. Harrigan & Antti Arppe. (2017). [A Morphologically Tagged Corpus for Plains Cree](https://altlab.artsrn.ualberta.ca/wp-content/uploads/2017/09/PWOLL_2017.pdf). 4th Prairie Workshop on Language and Linguistics, University of Saskatchewan, March 18, 2017.
@@ -113,6 +119,15 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Morphological Analyzer for the Bribri language of the Chibchense family](http://morphology.bribri.net/)
 
 **Scientific Papers**
+
+- Moeller, S., Kazeminejad, G., Cowell, A., & Hulden, M. (2018). [A Neural Morphological Analyzer for Arapaho Verbs Learned from a Finite State Transducer](http://www.aclweb.org/anthology/W18-4802). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 12-20).
+
+- Littell, P. (2018). [Finite-state morphology for Kwak'wala: A phonological approach](http://www.aclweb.org/anthology/W18-4803). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 21-30).
+
+- Andriyanets, V., & Tyers, F. (2018). [A prototype finite-state morphological analyser for Chukchi](http://www.aclweb.org/anthology/W18-4804). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 31-40).
+
+- Kazantseva, A., Maracle, O. B., & Pine, A. (2018). [Kawennón: nis: the Wordmaker for Kanyen'kéha](http://www.aclweb.org/anthology/W18-4806). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 53-64).
+
 - Kann, K., Mager, M., Meza-Ruiz, I., & Schütze, H. (2018). [Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages](https://arxiv.org/pdf/1804.06024.pdf). *16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies NAACL-HLT*, New Orleans, Louisiana, US. June, 2018..
 
 - Antti Arppe, Christopher Cox, Mans Hulden, Jordan Lachler, Sjur N. Moshagen, Miikka Silfverberg & Trond Trosterud (2017) [Computational modeling of the verb in Dene languages](http://altlab.artsrn.ualberta.ca/wp-content/uploads/2017/05/ComputationalModelingofVerbsinDeneLanguages_170402.pdf). The case of Tsuut’ina. Working Papers in Athabascan Linguistics (“Red Book” series), Alaska Native Language Center, pp. 51-68.
@@ -205,13 +220,21 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - King, B., & Abney, S. (2013). [Labeling the languages of words in mixed-language documents using weakly supervised methods](http://www.aclweb.org/anthology/N13-1131). In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1110-1119). (Also nahutal mixed sentences)
 
-## Tools
+## Tools, documentation and education
 
 - Mercado-Gonzales, R., Pereira-Noriega, J., Cabezudo, M. A. S., & Oncevay-Marcos, A. (2018). [ChAnot: An intelligent annotation tool for indigenous and highly agglutinative languages in Peru.](https://github.com/iapucp/chanot-lrec2018). In LREC.
 
 - Flores Solórzano, S. (2012). [Teclado chibcha: un software lingüístico para los sistemas de escritura de las lenguas bribri y cabécar.](http://repositorio.ucr.ac.cr/bitstream/handle/10669/14459/1110-1580-1-SM.pdf) Revista de Filología y Lingüística de la Universidad de Costa Rica Vol. 36 Núm. 2.
 
 - Kuhn, J. (2004). [Applying computational linguistic techniques in a documentary project for Q’anjob’al (Mayan, Guatemala)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=38AE54494D1E31D064F78F599CF0AEE0?doi=10.1.1.154.6408&rep=rep1&type=pdf). In In Proceedings of LREC 2004.
+
+- Lessard, G., Brinklow, N., & Levison, M. (2018). [Natural Language Generation for Polysynthetic Languages: Language Teaching and Learning Software for Kanyen’kéha (Mohawk)](http://www.aclweb.org/anthology/W18-4805). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 41-52).
+
+## Computational Linguistic Analyze and Surveys
+
+- Gutierrez-Vasques, X., & Mijangos, V. (2018). [Comparing morphological complexity of Spanish, Otomi and Nahuatl](http://aclweb.org/anthology/W18-4604). In Proceedings of the Workshop on Linguistic Complexity and Natural Language Processing (pp. 30-37).
+
+- Klavans, J. L. (2018). [Computational Challenges for Polysynthetic Languages](http://www.aclweb.org/anthology/W18-4801). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 1-11).
 
 ## Contact
 
