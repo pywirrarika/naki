@@ -232,6 +232,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Computational Linguistic Analyze and Surveys
 
+- Littell, P., Kazantseva, A., Kuhn, R., Pine, A., Arppe, A., Cox, C., & Junker, M. O. (2018). [Indigenous language technologies in Canada: Assessment, challenges, and successes](http://www.aclweb.org/anthology/C18-1222). In Proceedings of the 27th International Conference on Computational Linguistics (pp. 2620-2632).
+
 - Gutierrez-Vasques, X., & Mijangos, V. (2018). [Comparing morphological complexity of Spanish, Otomi and Nahuatl](http://aclweb.org/anthology/W18-4604). In Proceedings of the Workshop on Linguistic Complexity and Natural Language Processing (pp. 30-37).
 
 - Klavans, J. L. (2018). [Computational Challenges for Polysynthetic Languages](http://www.aclweb.org/anthology/W18-4801). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 1-11).
