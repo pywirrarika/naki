@@ -168,7 +168,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Wolfart, H. C., & Pardo, F. (1973). [Computer-assisted linguistic analysis](http://mspace.lib.umanitoba.ca/bitstream/handle/1993/18303/Wolfart,%20Computer-Assisted.pdf?sequence=1), University of Manitoba Anthropology Papers.
 
-## Speach Recognition
+## Speech Recognition
 
 - Mendels, G., Cooper, E., & Hirschberg, J. (2016). [Babler-data collection from the web to support speech recognition and keyword search](http://www.aclweb.org/anthology/W16-2609). In Proceedings of the 10th Web as Corpus Workshop (pp. 72-81).
 
