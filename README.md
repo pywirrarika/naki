@@ -12,9 +12,9 @@ If you want more information, please read our paper: ["Challenges of language te
 
 
 # Table of Contents
-1. [Machine Translation](#Machine-Translation)
-2. [Automatic Lexical extraction](#Automatic-Lexical-Extraction)
-3. [Morphologcal analysis and segmentation](#Morphologcal-analysis-and-segmentation)
+1. [Machine Translation](#machine-translation)
+2. [Automatic Lexical extraction](#automatic-lexical-extraction)
+3. [Morphologcal analysis and segmentation](#morphologcal-analysis-and-segmentation)
 
 ## Machine Translation
 
