@@ -117,6 +117,9 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Inuktitut Morphological Analyzer](http://www.inuktitutcomputing.ca/Uqailaut/index.php)
 - [Wixarika Morphological Segmenter](https://github.com/pywirrarika/smtwixes/tree/master/wixnlp)
 - [Morphological Analyzer for the Bribri language of the Chibchense family](http://morphology.bribri.net/)
+- Guaraní: https://github.com/apertium/apertium-grn
+- Cusco Quechua: https://github.com/apertium/apertium-quz
+- Eastern Apurímac Quechua:https://github.com/apertium/apertium-qve
 
 **Scientific Papers**
 
