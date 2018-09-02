@@ -22,11 +22,11 @@ If you want more information, please read our paper: ["Challenges of language te
 8. [OCR](#ocr)
 9. [Spell checking](#spell-checking)
 10. [WordNet](#wordnet)
-11. [Language ID](#languageid)
+11. [Language ID](#language-id)
 12. [Code-Switching and Multilingual NLP](#code-switching-and-multilingual-nlp)
-13. [Tools, documentation and education](#tools,-documentation-and-education)
+13. [Tools, documentation and education](#tools-documentation-and-education)
 14. [Computational Linguistic Analyze and Surveys](#computational-linguistic-analyze-and-surveys)
-15 [Contact](#contact)
+15. [Contact](#contact)
 
 ## Machine Translation
 
