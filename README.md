@@ -10,6 +10,12 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
+
+# Table of Contents
+1. [Machine Translation](#Machine-Translation)
+2. [Automatic Lexical extraction](#Automatic-Lexical-Extraction)
+3. [Morphologcal analysis and segmentation](#Morphologcal-analysis-and-segmentation)
+
 ## Machine Translation
 
 **Online demos and software**
@@ -54,7 +60,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Llitjós, A. F., Aranovich, R., & Levin, L. (2005). [Building Machine translation systems for indigenous languages](http://www.cs.cmu.edu/~aria/Papers/FontAranovich_CILLA2_mapuche_quechua(2).pdf). In Second Conference on the Indigenous Languages of Latin America (CILLA II), Texas, USA.
 
-## Automatic Lexical extraction
+## Automatic Lexical Extraction
 
 **Scientific papers**
 
