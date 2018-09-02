@@ -15,6 +15,18 @@ If you want more information, please read our paper: ["Challenges of language te
 1. [Machine Translation](#machine-translation)
 2. [Automatic Lexical extraction](#automatic-lexical-extraction)
 3. [Morphologcal analysis and segmentation](#morphologcal-analysis-and-segmentation)
+4. [Corpus and digital resources](#corpus-and-digital-resources)
+5. [Speech Recognition](#speech-recognition)
+6. [POS Tagging](#pos-tagging)
+7. [Parsing](#parsing)
+8. [OCR](#ocr)
+9. [Spell checking](#spell-checking)
+10. [WordNet](#wordnet)
+11. [Language ID](#languageid)
+12. [Code-Switching and Multilingual NLP](#code-switching-and-multilingual-nlp)
+13. [Tools, documentation and education](#tools,-documentation-and-education)
+14. [Computational Linguistic Analyze and Surveys](#computational-linguistic-analyze-and-surveys)
+15 [Contact](#contact)
 
 ## Machine Translation
 
