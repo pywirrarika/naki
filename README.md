@@ -40,6 +40,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers and thesis**
 
+
+
 - Mager, M., Mager, E., Medina-Urrea, A., Ruiz, I. V. M., & Kann, K. (2018). [Lost in Translation: Analysis of Information Loss During Machine Translation Between Polysynthetic and Fusional Languages](http://www.aclweb.org/anthology/W18-4808). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 73-83).
 
 - Micher, J. (2018). [Using the Nunavut Hansard Data for Experiments in Morphological Analysis and Machine Translation](http://www.aclweb.org/anthology/W18-4807). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 65-72).
@@ -63,6 +65,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Rudnick, A., & Gasser, M. (2013). [Lexical selection for hybrid mt with sequence labeling. In Proceedings of the Second Workshop on Hybrid Approaches to Translation](http://www.aclweb.org/anthology/W13-2815) (pp. 102-108).
 
 - Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
+
+- Vilca, H. D. C. (2009). Traductor automático en línea del español a quechua, basado en la plataforma libre y código abierto APERTIUM. Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, 5(3).
 
 - Castro Cavero, Indhira. (2007)[Traductor morfológico del castellano y quechua](https://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf). Revista I+i, vol. 1, no. 1.
 
