@@ -66,7 +66,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
 
-- Vilca, H. D. C. (2009). Traductor automático en línea del español a quechua, basado en la plataforma libre y código abierto APERTIUM. Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, 5(3).
+- Vilca, H. D. C. (2009). [Traductor automático en línea del español a quechua, basado en la plataforma libre y código abierto APERTIUM.](http://www.revistaepgunapuno.org/index.php/investigaciones/article/viewFile/24/18) Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, 5(3).
 
 - Castro Cavero, Indhira. (2007)[Traductor morfológico del castellano y quechua](https://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf). Revista I+i, vol. 1, no. 1.
 
