@@ -60,6 +60,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Coler M. and Homola Petr. (2014) [Ruble-based machine translation for Aymara](https://www.researchgate.net/publication/230785505_Rule-based_machine_translation_for_Aymara), in book Endangered Languages and New Technologies, Chapter: 4, Publisher: Cambridge University Press, Editors: Mari Jones, pp.67-80
 
+- Uchamaco, G. R. L., Vilca, H. D. C., & Mariño, F. C. C. (2013). [Incubación de Sistema de Traducción Automática Español a Quechua, Basado en la Plataforma Libre y Código Abierto Apertium](http://journal.ceprosimad.com/index.php/ceprosimad/article/view/7/7). Ceprosimad, 2(1), 57-65.
+
 - Fernández, D. I., Gamboa, O. Q., Atencia, J. M., & Bedoya, O. E. H. (2013, May). [Design and implementation of an “Web API” for the automatic translation Colombia's language pairs: Spanish-Wayuunaiki case.](https://www.researchgate.net/profile/Oscar_Bedoya4/publication/261093999_Design_and_implementation_of_an_Web_API_for_the_automatic_translation_Colombia%27s_language_pairs_Spanish-Wayuunaiki_case/links/57d019a108ae0c0081de9ea7/Design-and-implementation-of-an-Web-API-for-the-automatic-translation-Colombias-language-pairs-Spanish-Wayuunaiki-case.pdf) In Communications and Computing (COLCOM), 2013 IEEE Colombian Conference on (pp. 1-9). IEEE.
 
 - Rudnick, A., & Gasser, M. (2013). [Lexical selection for hybrid mt with sequence labeling. In Proceedings of the Second Workshop on Hybrid Approaches to Translation](http://www.aclweb.org/anthology/W13-2815) (pp. 102-108).
