@@ -106,8 +106,6 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers**
 
-- Moeller, S., & Hulden, M. (2018). [Automatic Glossing in a Low-Resource Setting for Language Documentation](http://www.aclweb.org/anthology/W18-4809). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 84-93).
-
 - Ronald Cardenas, Rodolfo Zevallos,Reynaldo Baquerizo & Luis Camacho (2018) [Siminchik: A Speech Corpus for Preservation of Southern Quechua](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf). Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan.
 
 - Katherine M. Schmirler, Antti Arppe, Atticus G. Harrigan & Antti Arppe. (2017). [A Morphologically Tagged Corpus for Plains Cree](https://altlab.artsrn.ualberta.ca/wp-content/uploads/2017/09/PWOLL_2017.pdf). 4th Prairie Workshop on Language and Linguistics, University of Saskatchewan, March 18, 2017.
@@ -148,7 +146,9 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific Papers**
 
-- Cardenas, R. & Zeman, D. [A Morphological Analyzer for Shipibo-Konibo](https://aclanthology.info/papers/W18-5815/w18-5815). Proceedings of the Fifteenth Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 131-139).
+- Cardenas, R. & Zeman, D. (2018) [A Morphological Analyzer for Shipibo-Konibo](https://aclanthology.info/papers/W18-5815/w18-5815). Proceedings of the Fifteenth Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 131-139).
+
+- Moeller, S., & Hulden, M. (2018). [Automatic Glossing in a Low-Resource Setting for Language Documentation](http://www.aclweb.org/anthology/W18-4809). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 84-93).
 
 - Moeller, S., Kazeminejad, G., Cowell, A., & Hulden, M. (2018). [A Neural Morphological Analyzer for Arapaho Verbs Learned from a Finite State Transducer](http://www.aclweb.org/anthology/W18-4802). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 12-20).
 
@@ -296,5 +296,5 @@ Mager, M., Gutierrez. X., Sierra, G., and Meza, I. (2018, August).  *Challenges 
 
 ## Links
 
-- [List of researchers and natives active in technology](https://github.com/nativesintech)
+- [**Awesome Natives in Tech** List of researchers and natives active in technology](https://github.com/nativesintech)
 
