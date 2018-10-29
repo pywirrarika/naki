@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 3/Sep/2018
+**Last Update:** 29/Oct/2018
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -147,6 +147,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Eastern Apurímac Quechua:https://github.com/apertium/apertium-qve
 
 **Scientific Papers**
+
+- Cardenas, R. & Zeman, D. [A Morphological Analyzer for Shipibo-Konibo](https://aclanthology.info/papers/W18-5815/w18-5815). Proceedings of the Fifteenth Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 131-139).
 
 - Moeller, S., Kazeminejad, G., Cowell, A., & Hulden, M. (2018). [A Neural Morphological Analyzer for Arapaho Verbs Learned from a Finite State Transducer](http://www.aclweb.org/anthology/W18-4802). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 12-20).
 
@@ -292,4 +294,7 @@ Mager, M., Gutierrez. X., Sierra, G., and Meza, I. (2018, August).  *Challenges 
 }
 ```
 
+## Links
+
+- [List of researchers and natives active in technology](https://github.com/nativesintech)
 
