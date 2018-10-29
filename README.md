@@ -259,7 +259,10 @@ If you want more information, please read our paper: ["Challenges of language te
 - King, B., & Abney, S. (2013). [Labeling the languages of words in mixed-language documents using weakly supervised methods](http://www.aclweb.org/anthology/N13-1131). In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1110-1119). (Also nahutal mixed sentences)
 
 ## Tools, documentation and education
+** Online available software**
+- [Kirrkirr: software for the exploration of indigenous language dictionaries](https://nlp.stanford.edu/kirrkirr/)
 
+** Papers **
 - Mercado-Gonzales, R., Pereira-Noriega, J., Cabezudo, M. A. S., & Oncevay-Marcos, A. (2018). [ChAnot: An intelligent annotation tool for indigenous and highly agglutinative languages in Peru.](https://github.com/iapucp/chanot-lrec2018). In LREC.
 
 - Flores Solórzano, S. (2012). [Teclado chibcha: un software lingüístico para los sistemas de escritura de las lenguas bribri y cabécar.](http://repositorio.ucr.ac.cr/bitstream/handle/10669/14459/1110-1580-1-SM.pdf) Revista de Filología y Lingüística de la Universidad de Costa Rica Vol. 36 Núm. 2.
@@ -267,6 +270,10 @@ If you want more information, please read our paper: ["Challenges of language te
 - Kuhn, J. (2004). [Applying computational linguistic techniques in a documentary project for Q’anjob’al (Mayan, Guatemala)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=38AE54494D1E31D064F78F599CF0AEE0?doi=10.1.1.154.6408&rep=rep1&type=pdf). In In Proceedings of LREC 2004.
 
 - Lessard, G., Brinklow, N., & Levison, M. (2018). [Natural Language Generation for Polysynthetic Languages: Language Teaching and Learning Software for Kanyen’kéha (Mohawk)](http://www.aclweb.org/anthology/W18-4805). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 41-52).
+
+- Manning, C. D., Jansz, K., & Indurkhya, N. (2001). [Kirrkirr: Software for browsing and visual exploration of a structured Warlpiri dictionary](https://nlp.stanford.edu/kirrkirr/doc/ach-allc2000-ver5-single.pdf). Literary and Linguistic Computing, 16(2), 135-151.
+
+- Jansz, K., Manning, C., & Indurkhya, N. (1999). [Kirrkirr: Interactive visualisation and multimedia from a structured Warlpiri dictionary](https://nlp.stanford.edu/kirrkirr/ausweb99/paper.html). Proceedings of AusWeb99, the Fifth Australian World Wide Web Conference, pp. 302-316.
 
 ## Computational Linguistic Analyze and Surveys
 
