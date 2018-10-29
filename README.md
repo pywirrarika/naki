@@ -77,6 +77,14 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Monson, C., Llitjós, A. F., Aranovich, R., Levin, L., Brown, R., Peterson, E., ... & Lavie, A. (2006). [Building NLP systems for two resource-scarce indigenous languages: mapudungun and Quechua. Strategies for developing machine translation for minority languages](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/OldFiles/OldFiles/Nice/Papers/esslli-06/ResourceScarceLanguageEngineeringWorkshop9.pdf), 15.
 
+- Schafer, C., & Drábek, E. F. (2005, June). [Models for inuktitut-english word alignment](https://aclanthology.info/pdf/W/W05/W05-0811.pdf). In Proceedings of the acl workshop on building and using parallel texts (pp. 79-82). Association for Computational Linguistics.
+
+- Langlais, P., Gotti, F., & Cao, G. (2005, June). [Nukti: English-inuktitut word alignment system description](https://aclanthology.info/pdf/W/W05/W05-0810.pdf). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 75-78). Association for Computational Linguistics.
+
+- Lopez, A., & Resnik, P. (2005, June). [Improved HMM alignment models for languages with scarce resources](http://www.aclweb.org/anthology/W05-0812). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 83-86). Association for Computational Linguistics.
+
+- Martin, J., Mihalcea, R., & Pedersen, T. (2005, June). [Word alignment for languages with scarce resources](http://www.aclweb.org/anthology/W05-0809). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 65-74). Association for Computational Linguistics.
+
 - Llitjós, A. F., Aranovich, R., & Levin, L. (2005). [Building Machine translation systems for indigenous languages](http://www.cs.cmu.edu/~aria/Papers/FontAranovich_CILLA2_mapuche_quechua(2).pdf). In Second Conference on the Indigenous Languages of Latin America (CILLA II), Texas, USA.
 
 ## Automatic Lexical Extraction
