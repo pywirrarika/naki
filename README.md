@@ -277,6 +277,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Computational Linguistic Analyze and Surveys
 
+- Mager, M., Gutierrez-Vasques, X., Sierra, G., & Meza, I. (2018). [Challenges of language technologies for the indigenous languages of the Americas](https://aclanthology.coli.uni-saarland.de/papers/C18-1006/c18-1006). In Proceedings of the 27th International Conference on Computational Linguistics (pp. 55–69).
+
 - Littell, P., Kazantseva, A., Kuhn, R., Pine, A., Arppe, A., Cox, C., & Junker, M. O. (2018). [Indigenous language technologies in Canada: Assessment, challenges, and successes](http://www.aclweb.org/anthology/C18-1222). In Proceedings of the 27th International Conference on Computational Linguistics (pp. 2620-2632).
 
 - Gutierrez-Vasques, X., & Mijangos, V. (2018). [Comparing morphological complexity of Spanish, Otomi and Nahuatl](http://aclweb.org/anthology/W18-4604). In Proceedings of the Workshop on Linguistic Complexity and Natural Language Processing (pp. 30-37).
