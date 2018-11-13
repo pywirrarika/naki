@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 29/Oct/2018
+**Last Update:** 13/November/2018
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -100,6 +100,7 @@ If you want more information, please read our paper: ["Challenges of language te
 ## Corpus and digital resources
 
 **Online Corpus Resources**
+- [BriBri Anotated speech + morphology corpus](http://www.bribri.net/)
 - [Inukitut Morhological Database](http://www.inuktitutcomputing.ca/DataBase/info.php)
 - [English-Inuktitut Parallel Corpus](http://www.inuktitutcomputing.ca/NunavutHansard/en/index-VX.html)
 - [Nahuatl-Spanish, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
