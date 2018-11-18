@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 13/November/2018
+**Last Update:** 18/November/2018
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -82,7 +82,7 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Wayuu-Spanish Machine Translation](http://142.4.219.173/wt/) Author: José Cirilo González Hernández
 - [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/) Author: Jesús Manuel Mager Hois
 - [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). Author: Gonazlo Santiago Martínez. 
- - [Mainumby](http://plogs.soic.indiana.edu/mainumby/base)  es una aplicación experimental que ayuda a traducir del castellano al guaraní.
+ - [Mainumby](http://plogs.soic.indiana.edu/mainumby/base) is an experimental translation app for the Guarani-Spanish language pair. 
 
 **Scientific papers**
 
