@@ -78,11 +78,12 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Online demos and software**
 - [CHANA](http://chana.inf.pucp.edu.pe/index.php/en/home/) A software platform for automatic translation between Peruvian native languages
+ - [Mainumby](http://plogs.soic.indiana.edu/mainumby/base) is an experimental translation app for the Guarani-Spanish language pair.
 - [Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) includes Yucatec Maya and Queretaro Otomí. 
 - [Wayuu-Spanish Machine Translation](http://142.4.219.173/wt/) Author: José Cirilo González Hernández
 - [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/) Author: Jesús Manuel Mager Hois
 - [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). Author: Gonazlo Santiago Martínez. 
- - [Mainumby](http://plogs.soic.indiana.edu/mainumby/base) is an experimental translation app for the Guarani-Spanish language pair. 
+
 
 **Scientific papers**
 
