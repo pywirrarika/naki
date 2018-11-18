@@ -29,73 +29,6 @@ If you want more information, please read our paper: ["Challenges of language te
 14. [Computational Linguistic Analyze and Surveys](#computational-linguistic-analyze-and-surveys)
 15. [Contact](#contact)
 
-## Machine Translation
-
-**Online demos and software**
-- [CHANA](http://chana.inf.pucp.edu.pe/index.php/en/home/) A software platform for automatic translation between Peruvian native languages
-- [Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) includes Yucatec Maya and Queretaro Otomí. 
-- [Wayuu-Spanish Machine Translation](http://142.4.219.173/wt/) Author: José Cirilo González Hernández
-- [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/) Author: Jesús Manuel Mager Hois
-- [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). Author: Gonazlo Santiago Martínez. 
-
-
-**Scientific papers and thesis**
-
-
-
-- Mager, M., Mager, E., Medina-Urrea, A., Ruiz, I. V. M., & Kann, K. (2018). [Lost in Translation: Analysis of Information Loss During Machine Translation Between Polysynthetic and Fusional Languages](http://www.aclweb.org/anthology/W18-4808). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 73-83).
-
-- Micher, J. (2018). [Using the Nunavut Hansard Data for Experiments in Morphological Analysis and Machine Translation](http://www.aclweb.org/anthology/W18-4807). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 65-72).
-
-- Mager, M., & Meza, I. (2018). [Hacia la traducción automática de las lenguas indıgenas de méxico](https://dh2018.adho.org/hacia-la-traduccion-automatica-de-las-lenguas-indigenas-de-mexico/). In Proceedings of the 2018 Digital Humanities Conference. The Association of Digital Humanities Organizations.
-
-- Galarreta, A. P., Melgar, A. & Ocevay, A. (September, 2017). [Corpus Creation and Initial SMT Experiments between Spanish and Shipibo-konibo](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP033.pdf). In RANLP 2017 (p. 238-244). 
-
-- Mager Hois, Jesús Manuel. (2017). [Traductor híbrido wixárika - español con escasos recursos bilingües](http://code.kiutz.com/tesism/tesis.pdf). Universidad Autónoma Metropolitana. 
-
-- Rios, A. (2016). [A basic language technology toolkit for Quechua](https://rua.ua.es/dspace/bitstream/10045/53566/1/PLN_56_10.pdf). 
-
-- González Hernández, José C. (2016). [Herramienta de traduccin automática de wayuunaiki a español. Caso de estudio: sintagmas nominales y verbales simples](https://www.dropbox.com/s/kqfos49lw36oras/Trabajo%20Especial%20de%20Grado.pdf?dl=0). Universidad de Zulia. 
-
-- Mager Hois, J. M., Barrón Romero, C., & Meza Ruiz, I. V. (2016). [Traductor estadístico wixarika-español usando descomposición morfológica](http://code.kiutz.com/arts/COMTEL2016.pdf). In COMTEL 2016.
-
-- Coler M. and Homola Petr. (2014) [Ruble-based machine translation for Aymara](https://www.researchgate.net/publication/230785505_Rule-based_machine_translation_for_Aymara), in book Endangered Languages and New Technologies, Chapter: 4, Publisher: Cambridge University Press, Editors: Mari Jones, pp.67-80
-
-- Uchamaco, G. R. L., Vilca, H. D. C., & Mariño, F. C. C. (2013). [Incubación de Sistema de Traducción Automática Español a Quechua, Basado en la Plataforma Libre y Código Abierto Apertium](http://journal.ceprosimad.com/index.php/ceprosimad/article/view/7/7). Ceprosimad, 2(1), 57-65.
-
-- Fernández, D. I., Gamboa, O. Q., Atencia, J. M., & Bedoya, O. E. H. (2013, May). [Design and implementation of an “Web API” for the automatic translation Colombia's language pairs: Spanish-Wayuunaiki case.](https://www.researchgate.net/profile/Oscar_Bedoya4/publication/261093999_Design_and_implementation_of_an_Web_API_for_the_automatic_translation_Colombia%27s_language_pairs_Spanish-Wayuunaiki_case/links/57d019a108ae0c0081de9ea7/Design-and-implementation-of-an-Web-API-for-the-automatic-translation-Colombias-language-pairs-Spanish-Wayuunaiki-case.pdf) In Communications and Computing (COLCOM), 2013 IEEE Colombian Conference on (pp. 1-9). IEEE.
-
-- Rudnick, A., & Gasser, M. (2013). [Lexical selection for hybrid mt with sequence labeling. In Proceedings of the Second Workshop on Hybrid Approaches to Translation](http://www.aclweb.org/anthology/W13-2815) (pp. 102-108).
-
-- Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
-
-- Vilca, H. D. C. (2009). [Traductor automático en línea del español a quechua, basado en la plataforma libre y código abierto APERTIUM.](http://www.revistaepgunapuno.org/index.php/investigaciones/article/viewFile/24/18) Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, 5(3).
-
-- Castro Cavero, Indhira. (2007)[Traductor morfológico del castellano y quechua](https://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf). Revista I+i, vol. 1, no. 1.
-
-- Abdelali, A., Cowie, J., Helmreich, S., Jin, W., Milagros, M. P., Ogden, B., ... & Zacharski, R. (2006, August). [Guarani: a case study in resource development for quick ramp-up MT](https://s3.amazonaws.com/academia.edu.documents/30506035/amta-2006-abdelali.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1518600723&Signature=XX1k2XMaF8%2BRq6WxvBtCFbFv%2Fl4%3D&response-content-disposition=inline%3B%20filename%3DGuarani_a_case_study_in_resource_develop.pdf). In Proceedings of the 7th Conference of the Association for Machine Translation in the Americas,“Visions for the Future of Machine Translation (pp. 1-9).
-
-- Monson, C., Llitjós, A. F., Aranovich, R., Levin, L., Brown, R., Peterson, E., ... & Lavie, A. (2006). [Building NLP systems for two resource-scarce indigenous languages: mapudungun and Quechua. Strategies for developing machine translation for minority languages](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/OldFiles/OldFiles/Nice/Papers/esslli-06/ResourceScarceLanguageEngineeringWorkshop9.pdf), 15.
-
-- Schafer, C., & Drábek, E. F. (2005, June). [Models for inuktitut-english word alignment](https://aclanthology.info/pdf/W/W05/W05-0811.pdf). In Proceedings of the acl workshop on building and using parallel texts (pp. 79-82). Association for Computational Linguistics.
-
-- Langlais, P., Gotti, F., & Cao, G. (2005, June). [Nukti: English-inuktitut word alignment system description](https://aclanthology.info/pdf/W/W05/W05-0810.pdf). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 75-78). Association for Computational Linguistics.
-
-- Lopez, A., & Resnik, P. (2005, June). [Improved HMM alignment models for languages with scarce resources](http://www.aclweb.org/anthology/W05-0812). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 83-86). Association for Computational Linguistics.
-
-- Martin, J., Mihalcea, R., & Pedersen, T. (2005, June). [Word alignment for languages with scarce resources](http://www.aclweb.org/anthology/W05-0809). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 65-74). Association for Computational Linguistics.
-
-- Llitjós, A. F., Aranovich, R., & Levin, L. (2005). [Building Machine translation systems for indigenous languages](http://www.cs.cmu.edu/~aria/Papers/FontAranovich_CILLA2_mapuche_quechua(2).pdf). In Second Conference on the Indigenous Languages of Latin America (CILLA II), Texas, USA.
-
-## Automatic Lexical Extraction
-
-**Scientific papers**
-
-- Gutierrez-Vasques, X., & Mijangos, V. (2017). [Low-resource bilingual lexicon extraction using graph based word embeddings](https://pdfs.semanticscholar.org/1968/e574af144ca6ecbfe770de031a5f7f96aee6.pdf). _arXiv preprint arXiv:1710.02569_.
-
-- Gutierrez, Ximena. (2015, June). [Bilingual lexicon extraction for a distant language pair using a small parallel corpus](http://www.anthology.aclweb.org/N/N15/N15-2021.pdf). In _NAACL-HLT 2015 Student Research Workshop (SRW)_ (p. 154).
-
-- Lam, K. N., Al Tarouti, F., & Kalita, J. (2014). [Creating lexical resources for endangered languages](http://www.anthology.aclweb.org/W/W14/W14-2207.pdf). ACL 2014, 54. (_Cherokee and Cheyenne_)
 
 ## Corpus and digital resources
 
@@ -141,6 +74,75 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Martin, J., Johnson, H., Farley, B., & Maclachlan, A. (2003). [Aligning and Using an English-Inuktitut Parallel Corpus](http://www.aclweb.org/anthology/W03-0320). In Proceedings of the HLT-NAACL 2003 Workshop on Building and Using Parallel Texts: Data Driven Machine Translation and Beyond.
 
+## Machine Translation
+
+**Online demos and software**
+- [CHANA](http://chana.inf.pucp.edu.pe/index.php/en/home/) A software platform for automatic translation between Peruvian native languages
+- [Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) includes Yucatec Maya and Queretaro Otomí. 
+- [Wayuu-Spanish Machine Translation](http://142.4.219.173/wt/) Author: José Cirilo González Hernández
+- [Wixarika-Spanish Machine Translation](http://turing.iimas.unam.mx/wix/) Author: Jesús Manuel Mager Hois
+- [Zapotec-Spanish Tranlsation APP](https://play.google.com/store/apps/details?id=com.SimplesoftMx.Didxazapp&hl=es). Author: Gonazlo Santiago Martínez. 
+ - [Mainumby](http://plogs.soic.indiana.edu/mainumby/base)  es una aplicación experimental que ayuda a traducir del castellano al guaraní.
+
+**Scientific papers**
+
+- Gasser, M. (2018). [Mainumby: un Ayudante para la Traducci\'on Castellano-Guaran\'i](https://arxiv.org/abs/1810.08603v1). Xiv preprint arXiv:1810.08603.
+
+- Mager, M., Mager, E., Medina-Urrea, A., Ruiz, I. V. M., & Kann, K. (2018). [Lost in Translation: Analysis of Information Loss During Machine Translation Between Polysynthetic and Fusional Languages](http://www.aclweb.org/anthology/W18-4808). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 73-83).
+
+- Micher, J. (2018). [Using the Nunavut Hansard Data for Experiments in Morphological Analysis and Machine Translation](http://www.aclweb.org/anthology/W18-4807). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 65-72).
+
+- Mager, M., & Meza, I. (2018). [Hacia la traducción automática de las lenguas indıgenas de méxico](https://dh2018.adho.org/hacia-la-traduccion-automatica-de-las-lenguas-indigenas-de-mexico/). In Proceedings of the 2018 Digital Humanities Conference. The Association of Digital Humanities Organizations.
+
+- Galarreta, A. P., Melgar, A. & Ocevay, A. (September, 2017). [Corpus Creation and Initial SMT Experiments between Spanish and Shipibo-konibo](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP033.pdf). In RANLP 2017 (p. 238-244). 
+
+- Mager Hois, Jesús Manuel. (2017). [Traductor híbrido wixárika - español con escasos recursos bilingües](http://code.kiutz.com/tesism/tesis.pdf). Universidad Autónoma Metropolitana. 
+
+- Rios, A. (2016). [A basic language technology toolkit for Quechua](https://rua.ua.es/dspace/bitstream/10045/53566/1/PLN_56_10.pdf). 
+
+- González Hernández, José C. (2016). [Herramienta de traduccin automática de wayuunaiki a español. Caso de estudio: sintagmas nominales y verbales simples](https://www.dropbox.com/s/kqfos49lw36oras/Trabajo%20Especial%20de%20Grado.pdf?dl=0). Universidad de Zulia. 
+
+- Mager Hois, J. M., Barrón Romero, C., & Meza Ruiz, I. V. (2016). [Traductor estadístico wixarika-español usando descomposición morfológica](http://code.kiutz.com/arts/COMTEL2016.pdf). In COMTEL 2016.
+
+- Coler M. and Homola Petr. (2014) [Ruble-based machine translation for Aymara](https://www.researchgate.net/publication/230785505_Rule-based_machine_translation_for_Aymara), in book Endangered Languages and New Technologies, Chapter: 4, Publisher: Cambridge University Press, Editors: Mari Jones, pp.67-80
+
+- Uchamaco, G. R. L., Vilca, H. D. C., & Mariño, F. C. C. (2013). [Incubación de Sistema de Traducción Automática Español a Quechua, Basado en la Plataforma Libre y Código Abierto Apertium](http://journal.ceprosimad.com/index.php/ceprosimad/article/view/7/7). Ceprosimad, 2(1), 57-65.
+
+- Fernández, D. I., Gamboa, O. Q., Atencia, J. M., & Bedoya, O. E. H. (2013, May). [Design and implementation of an “Web API” for the automatic translation Colombia's language pairs: Spanish-Wayuunaiki case.](https://www.researchgate.net/profile/Oscar_Bedoya4/publication/261093999_Design_and_implementation_of_an_Web_API_for_the_automatic_translation_Colombia%27s_language_pairs_Spanish-Wayuunaiki_case/links/57d019a108ae0c0081de9ea7/Design-and-implementation-of-an-Web-API-for-the-automatic-translation-Colombias-language-pairs-Spanish-Wayuunaiki-case.pdf) In Communications and Computing (COLCOM), 2013 IEEE Colombian Conference on (pp. 1-9). IEEE.
+
+- Rudnick, A., & Gasser, M. (2013). [Lexical selection for hybrid mt with sequence labeling. In Proceedings of the Second Workshop on Hybrid Approaches to Translation](http://www.aclweb.org/anthology/W13-2815) (pp. 102-108).
+
+- Vilca, Hugo David Calderon. (2009) [Traductor automático en línea del español al quechua, basado en la plataforma libre y código abierto Apertum. ](http://epg.unap.edu.pe/epgrd/investigacion/revistas/2009/7.pdf). Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, vol. 5, no 3.
+
+- Vilca, H. D. C. (2009). [Traductor automático en línea del español a quechua, basado en la plataforma libre y código abierto APERTIUM.](http://www.revistaepgunapuno.org/index.php/investigaciones/article/viewFile/24/18) Revista de Investigaciones (Puno)-Escuela de Posgrado de la UNA PUNO, 5(3).
+
+- Castro Cavero, Indhira. (2007)[Traductor morfológico del castellano y quechua](https://app.tecsup.edu.pe/file/sga/documentos/revistaIi/Ii_1/6.pdf). Revista I+i, vol. 1, no. 1.
+
+- Gasser, M. (2006). [Machine translation and the future of indigenous languages](http://homes.sice.indiana.edu/gasser/Papers/cilli.pdf). In I Congreso Internacional de Lenguas y Literaturas Indoamericanas, Temuco, Chile.
+
+- Abdelali, A., Cowie, J., Helmreich, S., Jin, W., Milagros, M. P., Ogden, B., ... & Zacharski, R. (2006, August). [Guarani: a case study in resource development for quick ramp-up MT](https://s3.amazonaws.com/academia.edu.documents/30506035/amta-2006-abdelali.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1518600723&Signature=XX1k2XMaF8%2BRq6WxvBtCFbFv%2Fl4%3D&response-content-disposition=inline%3B%20filename%3DGuarani_a_case_study_in_resource_develop.pdf). In Proceedings of the 7th Conference of the Association for Machine Translation in the Americas,“Visions for the Future of Machine Translation (pp. 1-9).
+
+- Monson, C., Llitjós, A. F., Aranovich, R., Levin, L., Brown, R., Peterson, E., ... & Lavie, A. (2006). [Building NLP systems for two resource-scarce indigenous languages: mapudungun and Quechua. Strategies for developing machine translation for minority languages](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/OldFiles/OldFiles/Nice/Papers/esslli-06/ResourceScarceLanguageEngineeringWorkshop9.pdf), 15.
+
+- Schafer, C., & Drábek, E. F. (2005, June). [Models for inuktitut-english word alignment](https://aclanthology.info/pdf/W/W05/W05-0811.pdf). In Proceedings of the acl workshop on building and using parallel texts (pp. 79-82). Association for Computational Linguistics.
+
+- Langlais, P., Gotti, F., & Cao, G. (2005, June). [Nukti: English-inuktitut word alignment system description](https://aclanthology.info/pdf/W/W05/W05-0810.pdf). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 75-78). Association for Computational Linguistics.
+
+- Lopez, A., & Resnik, P. (2005, June). [Improved HMM alignment models for languages with scarce resources](http://www.aclweb.org/anthology/W05-0812). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 83-86). Association for Computational Linguistics.
+
+- Martin, J., Mihalcea, R., & Pedersen, T. (2005, June). [Word alignment for languages with scarce resources](http://www.aclweb.org/anthology/W05-0809). In Proceedings of the ACL Workshop on Building and Using Parallel Texts (pp. 65-74). Association for Computational Linguistics.
+
+- Llitjós, A. F., Aranovich, R., & Levin, L. (2005). [Building Machine translation systems for indigenous languages](http://www.cs.cmu.edu/~aria/Papers/FontAranovich_CILLA2_mapuche_quechua(2).pdf). In Second Conference on the Indigenous Languages of Latin America (CILLA II), Texas, USA.
+
+## Automatic Lexical Extraction
+
+**Scientific papers**
+
+- Gutierrez-Vasques, X., & Mijangos, V. (2017). [Low-resource bilingual lexicon extraction using graph based word embeddings](https://pdfs.semanticscholar.org/1968/e574af144ca6ecbfe770de031a5f7f96aee6.pdf). _arXiv preprint arXiv:1710.02569_.
+
+- Gutierrez, Ximena. (2015, June). [Bilingual lexicon extraction for a distant language pair using a small parallel corpus](http://www.anthology.aclweb.org/N/N15/N15-2021.pdf). In _NAACL-HLT 2015 Student Research Workshop (SRW)_ (p. 154).
+
+- Lam, K. N., Al Tarouti, F., & Kalita, J. (2014). [Creating lexical resources for endangered languages](http://www.anthology.aclweb.org/W/W14/W14-2207.pdf). ACL 2014, 54. (_Cherokee and Cheyenne_)
 
 ## Morphologcal analysis and segmentation
 
@@ -152,6 +154,7 @@ If you want more information, please read our paper: ["Challenges of language te
 - Guaraní: https://github.com/apertium/apertium-grn
 - Cusco Quechua: https://github.com/apertium/apertium-quz
 - Eastern Apurímac Quechua:https://github.com/apertium/apertium-qve
+- Morfo is an application that analyzes words in several languages (Guarani, K'iche', Qhichwua, etc). http://plogs.soic.indiana.edu/morfo/
 
 **Scientific Papers**
 
@@ -167,7 +170,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Kazantseva, A., Maracle, O. B., & Pine, A. (2018). [Kawennón: nis: the Wordmaker for Kanyen'kéha](http://www.aclweb.org/anthology/W18-4806). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 53-64).
 
-- Kann, K., Mager, M., Meza-Ruiz, I., & Schütze, H. (2018). [Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages](https://arxiv.org/pdf/1804.06024.pdf). *16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies NAACL-HLT*, New Orleans, Louisiana, US. June, 2018..
+- Kann, K., Mager, M., Meza-Ruiz, I., & Schütze, H. (2018). [Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages](https://arxiv.org/pdf/1804.06024.pdf). *16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies NAACL-HLT*, New Orleans, Louisiana, US. June, 2018.
 
 - Antti Arppe, Christopher Cox, Mans Hulden, Jordan Lachler, Sjur N. Moshagen, Miikka Silfverberg & Trond Trosterud (2017) [Computational modeling of the verb in Dene languages](http://altlab.artsrn.ualberta.ca/wp-content/uploads/2017/05/ComputationalModelingofVerbsinDeneLanguages_170402.pdf). The case of Tsuut’ina. Working Papers in Athabascan Linguistics (“Red Book” series), Alaska Native Language Center, pp. 51-68.
 
@@ -198,6 +201,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Nicholson, J., Cohn, T., & Baldwin, T. (2012). [Evaluating a Morphological Analyser of Inuktitut](http://www.aclweb.org/anthology/N12-1040). NAACL HLT 2012, 372.
 
 - Martínez-Gil, C., Zempoalteca-Pérez, A., Soancatl-Aguilar, V., de Jesús Estudillo-Ayala, M., Lara-Ramírez, J. E., & Alcántara-Santiago, S. (2012). [Computer Systems for Analysis of Nahuatl](http://www.rcs.cic.ipn.mx/2012_47/Computer%20Systems%20for%20Analysis%20of%20Nahuatl.pdf). Research in Computing Science, 47, 11-16.
+
+- Gasser, M. (2011). [Computational morphology and the teaching of indigenous languages](ftp://ftp.cs.indiana.edu/pub/gasser/stilla.pdf). In Indigenous Languages of Latin America—Actas del Primer Simposio sobre Ensenanza de Lenguas Indıgenas de América Latina (pp. 52-61).
 
 - Porta, A. O. (2010, July). [The use of formal language models in the typology of the morphology of Amerindian languages](http://www.anthology.aclweb.org/P/P10/P10-3019.pdf). In Proceedings of the ACL 2010 Student Research Workshop (pp. 109-113). Association for Computational Linguistics. (_Toba and Quichua_)
 
