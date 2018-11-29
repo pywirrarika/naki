@@ -215,6 +215,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Speech Recognition
 
+- Klavans, J., Morgan, J., LaRocca, S., Micher, J., & Voss, C. (2018). [Challenges in Speech Recognition and Translation of High-Value Low-Density Polysynthetic Languages](http://www.aclweb.org/anthology/W18-1921). In Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (Volume 2: User Papers) (Vol. 2, pp. 283-293).
+
 - Mendels, G., Cooper, E., & Hirschberg, J. (2016). [Babler-data collection from the web to support speech recognition and keyword search](http://www.aclweb.org/anthology/W16-2609). In Proceedings of the 10th Web as Corpus Workshop (pp. 72-81).
 
 - Maldonado, D. M., Villalba Barrientos, R., & Pinto-Roa, D. P. (2016, November). [Eñe’˜ e: Sistema de reconocimiento automático del habla en Guaraní](http://sedici.unlp.edu.ar/bitstream/handle/10915/56979/Documento_completo.pdf?sequence=1). In Simposio Argentino de Inteligencia Artificial (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016)..
