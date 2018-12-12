@@ -263,7 +263,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Dufter, P., Zhao, M., Schmitt, M., Fraser, A., & Schütze, H. (2018). [Embedding Learning Through Multilingual Concept Induction](http://www.aclweb.org/anthology/P18-1141). In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (Vol. 1, pp. 1520-1530).
 
-Asgari, E., & Schütze, H. (2017). [Past, Present, Future: A Computational Investigation of the Typology of Tense in 1000 Languages](http://www.aclweb.org/anthology/D17-1011). In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 113-124).
+- Asgari, E., & Schütze, H. (2017). [Past, Present, Future: A Computational Investigation of the Typology of Tense in 1000 Languages](http://www.aclweb.org/anthology/D17-1011). In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 113-124).
 
 - Garrette, D., Alpert-Abrams, H., Berg-Kirkpatrick, T., & Klein, D. (2015). [Unsupervised Code-Switching for Multilingual Historical Document Transcription](http://www.cs.utexas.edu/~ml/papers/garrette.naacl15.pdf). In HLT-NAACL (pp. 1036-1041).
 
