@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 29/November/2018
+**Last Update:** 12/November/2018
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -261,7 +261,9 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Code-Switching and Multilingual NLP
 
-- Asgari, E., & Schütze, H. (2017). [Past, Present, Future: A Computational Investigation of the Typology of Tense in 1000 Languages](https://arxiv.org/pdf/1704.08914.pdf). arXiv preprint arXiv:1704.08914.
+- Dufter, P., Zhao, M., Schmitt, M., Fraser, A., & Schütze, H. (2018). [Embedding Learning Through Multilingual Concept Induction](http://www.aclweb.org/anthology/P18-1141). In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (Vol. 1, pp. 1520-1530).
+
+Asgari, E., & Schütze, H. (2017). [Past, Present, Future: A Computational Investigation of the Typology of Tense in 1000 Languages](http://www.aclweb.org/anthology/D17-1011). In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 113-124).
 
 - Garrette, D., Alpert-Abrams, H., Berg-Kirkpatrick, T., & Klein, D. (2015). [Unsupervised Code-Switching for Multilingual Historical Document Transcription](http://www.cs.utexas.edu/~ml/papers/garrette.naacl15.pdf). In HLT-NAACL (pp. 1036-1041).
 
