@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 12/November/2018
+**Last Update:** 2/January/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -233,6 +233,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Parsing
 
+- Vasquez, A., Aguirre, R. E., Angulo, C., Miller, J., Villanueva, C., Agić, Ž., ... & Oncevay, A. (2018). [Toward Universal Dependencies for Shipibo-Konibo](https://aclanthology.coli.uni-saarland.de/papers/W18-6018/w18-6018). In Proceedings of the Second Workshop on Universal Dependencies (UDW 2018) (pp. 151-161).
+
 - Homola, P. (2011, September). [Parsing a Polysynthetic Language](http://anthology.aclweb.org/R/R11/R11-1079.pdf). In RANLP (pp. 562-567). (_Ayamara_)
 
 - Agić, Ž., Johannsen, A., Plank, B., Martínez, H. A., Schluter, N., & Søgaard, A. (2016). [Multilingual projection for parsing truly low-resource languages.](http://bib.irb.hr/datoteka/827066.agic2016-multilingual.pdf) Transactions of the Association for Computational Linguistics, 4, 301.
@@ -287,6 +289,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Jansz, K., Manning, C., & Indurkhya, N. (1999). [Kirrkirr: Interactive visualisation and multimedia from a structured Warlpiri dictionary](https://nlp.stanford.edu/kirrkirr/ausweb99/paper.html). Proceedings of AusWeb99, the Fifth Australian World Wide Web Conference, pp. 302-316.
 
 ## Computational Linguistic Analyze and Surveys
+
+- Camacho, L., & Zevallos, R. (2018)[Siminchikkunarayku](https://www.researchgate.net/profile/Luis_Camacho15/publication/329718519_Siminchikkunarayku_Linguistica_computacional_para_la_revitalizacion_y_el_poliglotismo_Hoja_de_Ruta/links/5c18103ca6fdcc494ffc5ffa/Siminchikkunarayku-Lingueistica-computacional-para-la-revitalizacion-y-el-poliglotismo-Hoja-de-Ruta.pdf). Fundación Siminchikkunarayku, Pontificia Universidad Católica del Perú. 
 
 - Mager, M., Gutierrez-Vasques, X., Sierra, G., & Meza, I. (2018). [Challenges of language technologies for the indigenous languages of the Americas](https://aclanthology.coli.uni-saarland.de/papers/C18-1006/c18-1006). In Proceedings of the 27th International Conference on Computational Linguistics (pp. 55–69).
 
