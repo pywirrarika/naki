@@ -44,8 +44,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
 - [Shipibo-Konbio POS-tag corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/pos-tagger/)
 - [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
-- [Siminchikkunarayku: A Speech Corpus for Preservation of Southern Quechua](https://siminchikkunarayku.pe/)
-- [tsunkua: Spanish-Hñahñu (Otomi)](https://tsunkua.elotl.mx/about)
+- [Siminchikkunarayku](https://siminchikkunarayku.pe/) A Speech Corpus for Preservation of Southern Quechua
+- [Tsunkua](https://tsunkua.elotl.mx/about) Spanish-Hñahñu (Otomi) parallel corpus.
 
 **Scientific papers**
 
