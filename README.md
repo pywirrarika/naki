@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 21/February/2019
+**Last Update:** 17/March/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -95,6 +95,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Micher, J. (2018). [Using the Nunavut Hansard Data for Experiments in Morphological Analysis and Machine Translation](http://www.aclweb.org/anthology/W18-4807). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 65-72).
 
 - Mager, M., & Meza, I. (2018). [Hacia la traducción automática de las lenguas indıgenas de méxico](https://dh2018.adho.org/hacia-la-traduccion-automatica-de-las-lenguas-indigenas-de-mexico/). In Proceedings of the 2018 Digital Humanities Conference. The Association of Digital Humanities Organizations.
+
+- Huang, G., da Silva, T. F., Lamel, L., Gauvain, J. L., Gorin, A., Laurent, A., ... & Messouadi, A. (2017, March). [An investigation into language model data augmentation for low-resourced STT and KWS](ftp://tlp.limsi.fr/public/huang17.pdf). In 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5790-5794). IEEE. (Guaraní)
 
 - Galarreta, A. P., Melgar, A. & Ocevay, A. (September, 2017). [Corpus Creation and Initial SMT Experiments between Spanish and Shipibo-konibo](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP033.pdf). In RANLP 2017 (p. 238-244). 
 
