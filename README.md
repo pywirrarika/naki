@@ -295,6 +295,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Computational Linguistic Analyze and Surveys
 
+- van Esch, D., Foley, B., & San, N. (2019). [Future Directions in Technological Support for Language Documentation](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1007&context=scil-cmel). In Proceedings of the Workshop on Computational Methods for Endangered Languages (Vol. 1, No. 1, p. 3).
+
 - Camacho, L., & Zevallos, R. (2018)[Siminchikkunarayku](https://www.researchgate.net/profile/Luis_Camacho15/publication/329718519_Siminchikkunarayku_Linguistica_computacional_para_la_revitalizacion_y_el_poliglotismo_Hoja_de_Ruta/links/5c18103ca6fdcc494ffc5ffa/Siminchikkunarayku-Lingueistica-computacional-para-la-revitalizacion-y-el-poliglotismo-Hoja-de-Ruta.pdf). Fundación Siminchikkunarayku, Pontificia Universidad Católica del Perú. 
 
 - Mager, M., Gutierrez-Vasques, X., Sierra, G., & Meza, I. (2018). [Challenges of language technologies for the indigenous languages of the Americas](https://aclanthology.coli.uni-saarland.de/papers/C18-1006/c18-1006). In Proceedings of the 27th International Conference on Computational Linguistics (pp. 55–69).
