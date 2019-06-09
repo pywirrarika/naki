@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 25/May/2019
+**Last Update:** 9/June/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -267,6 +267,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Xia, F., Lewis, C., & Lewis, W. D. (2010). [The Problems of Language Identification within Hugely Multilingual Data Sets](http://mt-archive.info/LREC-2010-Xia.pdf). In LREC.
 
 ## Code-Switching and Multilingual NLP
+
+- Mager, M., Çetinoğlu, Ö., & Kann, K. (2019, June). [Subword-Level Language Identification for Intra-Word Code-Switching](https://www.aclweb.org/anthology/papers/N/N19/N19-1201/). In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 2005-2011).
 
 - Dufter, P., Zhao, M., Schmitt, M., Fraser, A., & Schütze, H. (2018). [Embedding Learning Through Multilingual Concept Induction](http://www.aclweb.org/anthology/P18-1141). In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (Vol. 1, pp. 1520-1530).
 
