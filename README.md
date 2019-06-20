@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 9/June/2019
+**Last Update:** 20/June/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -161,6 +161,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Morfo is an application that analyzes words in several languages (Guarani, K'iche', Qhichwua, etc). http://plogs.soic.indiana.edu/morfo/
 
 **Scientific Papers**
+
+- Micher, J. (2019). [Bootstrapping a Neural Morphological Generator from Morphological Analyzer Output for Inuktitut.](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1023&context=scil-cmel) In Proceedings of the Workshop on Computational Methods for Endangered Languages (Vol. 2, No. 1, p. 7).
 
 - Escobar Farfan, J. I. (2019). [Nahuatl contemporary writing: studying convergence in the absence of a written norm](http://etheses.whiterose.ac.uk/23958/1/escobar-farfan-phdthesis_032019.pdf) (Doctoral dissertation, University of Sheffield).
 
