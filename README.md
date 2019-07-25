@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 20/June/2019
+**Last Update:** 25/July/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -48,6 +48,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Tsunkua](https://tsunkua.elotl.mx/about) Spanish-Hñahñu (Otomi) parallel corpus.
 
 **Scientific papers**
+
+- Cynthia Montano, Gerardo Sierra, Gemma Bel-Enguix & Helena Gomez-Adorno (2019). [A Mixtec-Spanish Parallel Corpus](http://www.winlp.org/wp-content/uploads/2019/final_papers/198_Paper.pdf). WiNLP 2019 Workshop, Florence, Italy.
 
 - Ronald Cardenas, Rodolfo Zevallos,Reynaldo Baquerizo & Luis Camacho (2018) [Siminchik: A Speech Corpus for Preservation of Southern Quechua](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf). Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan.
 
