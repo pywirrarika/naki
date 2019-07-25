@@ -342,4 +342,5 @@ Mager, M., Gutierrez. X., Sierra, G., and Meza, I. (2018, August).  *Challenges 
 ## Links
 
 - [**Awesome Natives in Tech** List of researchers and natives active in technology](https://github.com/nativesintech)
+- [**Endangered Languages (Github List)**](https://github.com/LowResourceLanguages/endangered-languages)
 
