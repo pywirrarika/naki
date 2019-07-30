@@ -164,6 +164,10 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific Papers**
 
+- Eskander, R., Klavans, J. & Muresan S. (2019) [Unsupervised Morphological Segmentation for Low-Resource Polysynthetic Languages](https://www.aclweb.org/anthology/papers/W/W19/W19-4222/). In Proceedings of the 16th Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 189–195).
+
+- Sorokin, A. (2019). [Convolutional neural networks for low-resource morpheme segmentation: baseline or state-of-the-art?](https://www.aclweb.org/anthology/papers/W/W19/W19-4218/) In Proceedings of the 16th Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 154–159).
+
 - Micher, J. (2019). [Bootstrapping a Neural Morphological Generator from Morphological Analyzer Output for Inuktitut.](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1023&context=scil-cmel) In Proceedings of the Workshop on Computational Methods for Endangered Languages (Vol. 2, No. 1, p. 7).
 
 - Escobar Farfan, J. I. (2019). [Nahuatl contemporary writing: studying convergence in the absence of a written norm](http://etheses.whiterose.ac.uk/23958/1/escobar-farfan-phdthesis_032019.pdf) (Doctoral dissertation, University of Sheffield).
