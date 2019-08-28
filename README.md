@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 27/August/2019
+**Last Update:** 28/August/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -146,7 +146,9 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Automatic Lexical Extraction
 
-**Scientific papers**
+**Scientific papers and dictionaries**
+
+- Hunt, B., Chen, E., Schreiner, S. L., & Schwartz, L. (2019). [Community lexical access for an endangered polysynthetic language: An electronic dictionary for St. Lawrence Island Yupik.](https://www.aclweb.org/anthology/N19-4021/) In _NAACL-HLT 2019_, 122.
 
 - Gutierrez-Vasques, X., & Mijangos, V. (2017). [Low-resource bilingual lexicon extraction using graph based word embeddings](https://pdfs.semanticscholar.org/1968/e574af144ca6ecbfe770de031a5f7f96aee6.pdf). _arXiv preprint arXiv:1710.02569_.
 
@@ -175,6 +177,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Micher, J. (2019). [Bootstrapping a Neural Morphological Generator from Morphological Analyzer Output for Inuktitut.](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1023&context=scil-cmel) In Proceedings of the Workshop on Computational Methods for Endangered Languages (Vol. 2, No. 1, p. 7).
 
 - Escobar Farfan, J. I. (2019). [Nahuatl contemporary writing: studying convergence in the absence of a written norm](http://etheses.whiterose.ac.uk/23958/1/escobar-farfan-phdthesis_032019.pdf) (Doctoral dissertation, University of Sheffield).
+
+- Chen, Emily, and Lane Schwartz. (2018) [A morphological analyzer for St. Lawrence Island/Central Siberian Yupik.](https://www.aclweb.org/anthology/L18-1416) Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018). 2018.
 
 - Cardenas, R. & Zeman, D. (2018) [A Morphological Analyzer for Shipibo-Konibo](https://aclanthology.info/papers/W18-5815/w18-5815). Proceedings of the Fifteenth Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 131-139).
 
@@ -268,6 +272,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Carlo Alva and Arturo Oncevay-Marcos. (2017). [Spell-checking based on syllabification and character-level graphs for a peruvian agglutinative language](http://www.aclweb.org/anthology/W17-4116). In Proceedings of the EMNLP 2017 Workshop on Subword & Character Level Models in NLP, SCLeM 2017. ACL Anthology.
 
+-  Schwartz, L., & Chen, E. (2017). [Liinnaqumalghiit: A Web-based Tool for Addressing Orthographic Transparency in St. Lawrence Island/Central Siberian Yupik.](https://core.ac.uk/download/pdf/86663072.pdf) Language documentation and conservation, 11.
+
 ## WordNet
 
 - Valencia, D. M., Oncevay-Marcos, A., & Cabezudo, M. A. S. (2018). [WordNet-Shp: Towards the Building of a Lexical Database for a Peruvian Minority Language](http://www.lrec-conf.org/proceedings/lrec2018/pdf/1044.pdf). In LREC.
@@ -297,6 +303,7 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Kirrkirr: software for the exploration of indigenous language dictionaries](https://nlp.stanford.edu/kirrkirr/)
 
 **Papers**
+
 - Mercado-Gonzales, R., Pereira-Noriega, J., Cabezudo, M. A. S., & Oncevay-Marcos, A. (2018). [ChAnot: An intelligent annotation tool for indigenous and highly agglutinative languages in Peru.](https://github.com/iapucp/chanot-lrec2018). In LREC.
 
 - Flores Solórzano, S. (2012). [Teclado chibcha: un software lingüístico para los sistemas de escritura de las lenguas bribri y cabécar.](http://repositorio.ucr.ac.cr/bitstream/handle/10669/14459/1110-1580-1-SM.pdf) Revista de Filología y Lingüística de la Universidad de Costa Rica Vol. 36 Núm. 2.
