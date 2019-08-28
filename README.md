@@ -35,7 +35,7 @@ If you want more information, please read our paper: ["Challenges of language te
 **Online Corpus Resources**
 - [BriBri Anotated speech + morphology corpus](http://www.bribri.net/)
 - [Inukitut Morhological Database](http://www.inuktitutcomputing.ca/DataBase/info.php)
-- [JW300](http://zeljkoagic.github.io/jw300/) Multilingual corpus that also include many indigenous languages of the american contienent.  ( Soon aviable at [OPUS](http://opus.nlpl.eu/) )
+- [JW300](http://zeljkoagic.github.io/jw300/) Multilingual corpus that also include many indigenous languages of the american contienent.  ( Soon available at [OPUS](http://opus.nlpl.eu/) )
 - [English-Inuktitut Parallel Corpus](http://www.inuktitutcomputing.ca/NunavutHansard/en/index-VX.html)
 - [Nahuatl-Spanish, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
 - [Gran diccionario Nahuatl](http://www.gdn.unam.mx/)
