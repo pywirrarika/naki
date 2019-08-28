@@ -234,11 +234,13 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Wolfart, H. C., & Pardo, F. (1973). [Computer-assisted linguistic analysis](http://mspace.lib.umanitoba.ca/bitstream/handle/1993/18303/Wolfart,%20Computer-Assisted.pdf?sequence=1), University of Manitoba Anthropology Papers.
 
-## Speech Recognition
+## Speech
 
 - Cruz H. and Waring J. (2019). [Deploying Technology to Save Endangered Languages](https://arxiv.org/abs/1908.08971). arXiv preprint arXiv:1908.08971.
 
 - Klavans, J., Morgan, J., LaRocca, S., Micher, J., & Voss, C. (2018). [Challenges in Speech Recognition and Translation of High-Value Low-Density Polysynthetic Languages](http://www.aclweb.org/anthology/W18-1921). In Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (Volume 2: User Papers) (Vol. 2, pp. 283-293).
+
+- Adams, O., Cohn, T., Neubig, G., & Michaud, A. (2017, December). [Phonemic transcription of low-resource tonal languages.](https://www.aclweb.org/anthology/U17-1006) In Proceedings of the Australasian Language Technology Association Workshop 2017 (pp. 53-60).
 
 - Mendels, G., Cooper, E., & Hirschberg, J. (2016). [Babler-data collection from the web to support speech recognition and keyword search](http://www.aclweb.org/anthology/W16-2609). In Proceedings of the 10th Web as Corpus Workshop (pp. 72-81).
 
