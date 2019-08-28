@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 29/July/2019
+**Last Update:** 27/August/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -46,8 +46,11 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
 - [Siminchikkunarayku](https://siminchikkunarayku.pe/) A Speech Corpus for Preservation of Southern Quechua
 - [Tsunkua](https://tsunkua.elotl.mx/about) Spanish-Hñahñu (Otomi) parallel corpus.
+- [JW300] Multilingual corpus that also include many indigenous languages of the american contienent. http://zeljkoagic.github.io/jw300/ ( Soon aviable at [OPUS](http://opus.nlpl.eu/) )
 
 **Scientific papers**
+
+- Agić, Ž., & Vulić, I. (2019, July). [JW300: A Wide-Coverage Parallel Corpus for Low-Resource Languages](https://www.aclweb.org/anthology/P19-1310/). In Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 3204-3210).
 
 - Cynthia Montano, Gerardo Sierra, Gemma Bel-Enguix & Helena Gomez-Adorno (2019). [A Mixtec-Spanish Parallel Corpus](http://www.winlp.org/wp-content/uploads/2019/final_papers/198_Paper.pdf). WiNLP 2019 Workshop, Florence, Italy.
 
@@ -227,6 +230,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Wolfart, H. C., & Pardo, F. (1973). [Computer-assisted linguistic analysis](http://mspace.lib.umanitoba.ca/bitstream/handle/1993/18303/Wolfart,%20Computer-Assisted.pdf?sequence=1), University of Manitoba Anthropology Papers.
 
 ## Speech Recognition
+
+- Cruz H. and Waring J. (2019). [Deploying Technology to Save Endangered Languages](https://arxiv.org/abs/1908.08971). arXiv preprint arXiv:1908.08971.
 
 - Klavans, J., Morgan, J., LaRocca, S., Micher, J., & Voss, C. (2018). [Challenges in Speech Recognition and Translation of High-Value Low-Density Polysynthetic Languages](http://www.aclweb.org/anthology/W18-1921). In Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (Volume 2: User Papers) (Vol. 2, pp. 283-293).
 
