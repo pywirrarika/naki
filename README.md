@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 28/August/2019
+**Last Update:** 18/September/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -93,6 +93,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 
 **Scientific papers**
+
+- Gómez Montoya, H. E. (2019). [A crowd-powered conversational assistant for the improvement of a neural machine translation system in native peruvian language](http://tesis.pucp.edu.pe/repositorio/bitstream/handle/20.500.12404/14989/GOMEZ_MONTOYA_HECTOR_ERASMO_CROWD_POWERED_CONVERSATIONAL.pdf?sequence=1). Pontificia Universidad Católica del Perú.
 
 - Gasser, M. (2018). [Mainumby: un Ayudante para la Traducci\'on Castellano-Guaran\'i](https://arxiv.org/abs/1810.08603v1). Xiv preprint arXiv:1810.08603.
 
