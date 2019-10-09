@@ -47,7 +47,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
 - [Siminchikkunarayku](https://siminchikkunarayku.pe/) A Speech Corpus for Preservation of Southern Quechua
 - [Tsunkua](https://tsunkua.elotl.mx/about) Spanish-Hñahñu (Otomi) parallel corpus.
-
+- [Universal Dependencies](https://universaldependencies.org/): Mbya Guarani, Shipibo Konibo, Cusco Quechua
+- [FastText](https://fasttext.cc/docs/en/crawl-vectors.html): Nahuatl
 
 **Scientific papers**
 
