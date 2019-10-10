@@ -170,6 +170,7 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Cusco Quechua](https://github.com/apertium/apertium-quz)
 - [Eastern Apurímac Quechua](https://github.com/apertium/apertium-qve)
 - [Morfo is an application that analyzes words in several languages (Guarani, K'iche', Qhichwua, etc).](http://plogs.soic.indiana.edu/morfo/)
+- [Plains Cree morphological analyzer/generator](https://github.com/UAlbertaALTLab/plains-cree-fsts)
 
 **Scientific Papers**
 
