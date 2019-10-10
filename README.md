@@ -273,6 +273,9 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Garrette, D., & Alpert-Abrams, H. (2016). [An Unsupervised Model of Orthographic Variation for Historical Document Transcription](http://www.aclweb.org/anthology/N/N16/N16-1055.pdf). In HLT-NAACL (pp. 467-472).
 
+- Hubert, I., Arppe, A., Lachler, J., & Santos, E. A. (2016). [Training & quality assessment of an optical character recognition model for Northern Haida](https://www.aclweb.org/anthology/L16-1514). In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016) (pp. 3227-3234).
+
+
 ## Spell checking
 
 - Carlo Alva and Arturo Oncevay-Marcos. (2017). [Spell-checking based on syllabification and character-level graphs for a peruvian agglutinative language](http://www.aclweb.org/anthology/W17-4116). In Proceedings of the EMNLP 2017 Workshop on Subword & Character Level Models in NLP, SCLeM 2017. ACL Anthology.
