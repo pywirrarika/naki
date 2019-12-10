@@ -52,7 +52,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers**
 
-- Duan, M., Fasola, C., Rallabandi, S. K., Vega, R. M., Anastasopoulos, A., Levin, L., & Black, A. W. (2019). A Resource for Computational Experiments on Mapudungun. arXiv preprint arXiv:1912.01772.
+- Duan, M., Fasola, C., Rallabandi, S. K., Vega, R. M., Anastasopoulos, A., Levin, L., & Black, A. W. (2019). [A Resource for Computational Experiments on Mapudungun](https://arxiv.org/abs/1912.01772). arXiv preprint arXiv:1912.01772.
 
 - Agić, Ž., & Vulić, I. (2019, July). [JW300: A Wide-Coverage Parallel Corpus for Low-Resource Languages](https://www.aclweb.org/anthology/P19-1310/). In Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 3204-3210).
 
