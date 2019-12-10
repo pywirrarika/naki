@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 9/October/2019
+**Last Update:** 10/December/2019
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -51,6 +51,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - [FastText](https://fasttext.cc/docs/en/crawl-vectors.html): Nahuatl
 
 **Scientific papers**
+
+- Duan, M., Fasola, C., Rallabandi, S. K., Vega, R. M., Anastasopoulos, A., Levin, L., & Black, A. W. (2019). A Resource for Computational Experiments on Mapudungun. arXiv preprint arXiv:1912.01772.
 
 - Agić, Ž., & Vulić, I. (2019, July). [JW300: A Wide-Coverage Parallel Corpus for Low-Resource Languages](https://www.aclweb.org/anthology/P19-1310/). In Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 3204-3210).
 
