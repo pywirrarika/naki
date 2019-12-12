@@ -39,7 +39,7 @@ If you want more information, please read our paper: ["Challenges of language te
 - [English-Inuktitut Parallel Corpus](http://www.inuktitutcomputing.ca/NunavutHansard/en/index-VX.html)
 - [Nahuatl-Spanish, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
 - [Gran diccionario Nahuatl](http://www.gdn.unam.mx/)
-- [Wixarika-Spanish](https://raw.githubusercontent.com/pywirrarika/wixarikacorpora/master/largecorpus.wixes) Parallel Wixarika - Spanish
+- [Wixarika-Spanish](https://github.com/pywirrarika/wixarika-spanish) Parallel Wixarika - Spanish
 - [Shipibo-Konibo Spanish](http://chana.inf.pucp.edu.pe/resources/parallel-corpus/) Parallel corpus.
 - [Shipibo-Konibo Wordnet](http://chana.inf.pucp.edu.pe/resources/wordnet-shp/)
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
