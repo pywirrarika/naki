@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 10/December/2019
+**Last Update:** 23/March/2020
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -45,12 +45,15 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
 - [Shipibo-Konbio POS-tag corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/pos-tagger/)
 - [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
+- [Morpholigucal inflection SIGMPRPHON 2020 (Tlatepuzco Chinantec, San Pedro Amuzgo Amuzgos, Yoloxóchitl Mixtec, Chichicapan Zapotec, Yaitepec Chatino, Zenzontepec Chatino, Eastern Highland Chatino, Eastern Highland Otomi, Mezquital Otomi and Chichimec)](https://sigmorphon.github.io/sharedtasks/2020/task0/)
 - [Siminchikkunarayku](https://siminchikkunarayku.pe/) A Speech Corpus for Preservation of Southern Quechua
 - [Tsunkua](https://tsunkua.elotl.mx/about) Spanish-Hñahñu (Otomi) parallel corpus.
 - [Universal Dependencies](https://universaldependencies.org/): Mbya Guarani, Shipibo Konibo, Cusco Quechua
 - [FastText](https://fasttext.cc/docs/en/crawl-vectors.html): Nahuatl
 
 **Scientific papers**
+
+- Frey, B. (2020). [“Data is nice:” Theoretical and pedagogical implications of an Eastern Cherokee corpus](https://scholarspace.manoa.hawaii.edu/bitstream/10125/66556/ldc-sp20-frey.pdf). LD&C Special Publication.
 
 - Duan, M., Fasola, C., Rallabandi, S. K., Vega, R. M., Anastasopoulos, A., Levin, L., & Black, A. W. (2019). [A Resource for Computational Experiments on Mapudungun](https://arxiv.org/abs/1912.01772). arXiv preprint arXiv:1912.01772.
 
@@ -328,6 +331,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Jansz, K., Manning, C., & Indurkhya, N. (1999). [Kirrkirr: Interactive visualisation and multimedia from a structured Warlpiri dictionary](https://nlp.stanford.edu/kirrkirr/ausweb99/paper.html). Proceedings of AusWeb99, the Fifth Australian World Wide Web Conference, pp. 302-316.
 
 ## Computational Linguistic Analyze and Surveys
+
+Vera J. and Palma W. (2020) [Laplacian spectrum approach to linguistic complexity: a casestudy on indigenous languages of the America](https://www.researchgate.net/publication/340003576_Laplacian_spectrum_approach_to_linguistic_complexity_a_case_study_on_indigenous_languages_of_the_Americas). EPL (Europhysics Letters).
 
 - van Esch, D., Foley, B., & San, N. (2019). [Future Directions in Technological Support for Language Documentation](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1007&context=scil-cmel). In Proceedings of the Workshop on Computational Methods for Endangered Languages (Vol. 1, No. 1, p. 3).
 
