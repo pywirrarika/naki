@@ -174,6 +174,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Guaraní](https://github.com/apertium/apertium-grn)
 - [Cusco Quechua](https://github.com/apertium/apertium-quz)
 - [Eastern Apurímac Quechua](https://github.com/apertium/apertium-qve)
+- [K'iche'](https://github.com/apertium/apertium-quc)
+- [Tseltal](https://github.com/apertium/apertium-tzh)
 - [Morfo is an application that analyzes words in several languages (Guarani, K'iche', Qhichwua, etc).](http://plogs.soic.indiana.edu/morfo/)
 - [Plains Cree morphological analyzer/generator](https://github.com/UAlbertaALTLab/plains-cree-fsts)
 
