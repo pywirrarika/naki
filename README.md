@@ -181,6 +181,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific Papers**
 
+- Cruz, H., Stump, G., & Anastasopoulos, A. (2020). [A Resource for Studying Chatino Verbal Morphology](https://arxiv.org/pdf/2004.02083.pdf). arXiv preprint arXiv:2004.02083.
+
 - Eskander, R., Klavans, J. & Muresan S. (2019) [Unsupervised Morphological Segmentation for Low-Resource Polysynthetic Languages](https://www.aclweb.org/anthology/papers/W/W19/W19-4222/). In Proceedings of the 16th Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 189–195).
 
 - Sorokin, A. (2019). [Convolutional neural networks for low-resource morpheme segmentation: baseline or state-of-the-art?](https://www.aclweb.org/anthology/papers/W/W19/W19-4218/) In Proceedings of the 16th Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 154–159).
