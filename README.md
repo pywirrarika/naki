@@ -337,6 +337,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Computational Linguistic Analyze and Surveys
 
+Schwartz, L., Tyers, F., Levin, L., Kirov, C., Littell, P., Lo, C. K., ... & Strunk, L. (2020). [Neural Polysynthetic Language Modelling](https://arxiv.org/pdf/2005.05477.pdf). arXiv preprint arXiv:2005.05477.
+
 - Gupta, V., & Boulianne, G. (2020, May). [Automatic Transcription Challenges for Inuktitut, a Low-Resource Polysynthetic Language](https://www.aclweb.org/anthology/2020.lrec-1.307.pdf). In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2521-2527).
 
 Vera J. and Palma W. (2020) [Laplacian spectrum approach to linguistic complexity: a casestudy on indigenous languages of the America](https://www.researchgate.net/publication/340003576_Laplacian_spectrum_approach_to_linguistic_complexity_a_case_study_on_indigenous_languages_of_the_Americas). EPL (Europhysics Letters).
