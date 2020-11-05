@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 23/March/2020
+**Last Update:** 05/November/2020
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -52,6 +52,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - [FastText](https://fasttext.cc/docs/en/crawl-vectors.html): Nahuatl
 
 **Scientific papers**
+
+- Bustamante, G., Oncevay, A., & Zariquiey, R. (2020, May). [No data to crawl? Monolingual corpus creation from PDF files of truly low-resource languages in Peru.](https://www.aclweb.org/anthology/2020.lrec-1.356.pdf) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2914-2923).
 
 - Frey, B. (2020). [“Data is nice:” Theoretical and pedagogical implications of an Eastern Cherokee corpus](https://scholarspace.manoa.hawaii.edu/bitstream/10125/66556/ldc-sp20-frey.pdf). LD&C Special Publication.
 
@@ -99,6 +101,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 
 **Scientific papers**
+
+- Le, T. N., & Sadat, F. (2020, October). [Low-Resource NMT: an Empirical Study on the Effect of Rich Morphological Word Segmentation on Inuktitut.](https://www.aclweb.org/anthology/2020.amta-research.15.pdf) In Proceedings of the 14th Conference of the Association for Machine Translation in the Americas (AMTA 2020) (pp. 165-172).
 
 - Gómez Montoya, H. E. (2019). [A crowd-powered conversational assistant for the improvement of a neural machine translation system in native peruvian language](http://tesis.pucp.edu.pe/repositorio/bitstream/handle/20.500.12404/14989/GOMEZ_MONTOYA_HECTOR_ERASMO_CROWD_POWERED_CONVERSATIONAL.pdf?sequence=1). Pontificia Universidad Católica del Perú.
 
@@ -180,6 +184,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Plains Cree morphological analyzer/generator](https://github.com/UAlbertaALTLab/plains-cree-fsts)
 
 **Scientific Papers**
+
+- Mager, Manuel, Özlem Çetinoğlu, and Katharina Kann. (2020) ["Tackling the Low-resource Challenge for Canonical Segmentation."](https://arxiv.org/pdf/2010.02804.pdf) EMNLP2020.
 
 - Cruz, H., Stump, G., & Anastasopoulos, A. (2020). [A Resource for Studying Chatino Verbal Morphology](https://arxiv.org/pdf/2004.02083.pdf). arXiv preprint arXiv:2004.02083.
 
@@ -337,7 +343,10 @@ If you want more information, please read our paper: ["Challenges of language te
 
 ## Computational Linguistic Analyze and Surveys
 
-Schwartz, L., Tyers, F., Levin, L., Kirov, C., Littell, P., Lo, C. K., ... & Strunk, L. (2020). [Neural Polysynthetic Language Modelling](https://arxiv.org/pdf/2005.05477.pdf). arXiv preprint arXiv:2005.05477.
+
+- Aguilar, C., & Acosta, O. [A Critical Review of the Current State of Natural Language Processing in Mexico and Chile.](https://www.igi-global.com/chapter/a-critical-review-of-the-current-state-of-natural-language-processing-in-mexico-and-chile/259797) (2020) Natural Language Processing for Global and Local Business, 365-389.
+
+- Schwartz, L., Tyers, F., Levin, L., Kirov, C., Littell, P., Lo, C. K., ... & Strunk, L. (2020). [Neural Polysynthetic Language Modelling](https://arxiv.org/pdf/2005.05477.pdf). arXiv preprint arXiv:2005.05477.
 
 - Gupta, V., & Boulianne, G. (2020, May). [Automatic Transcription Challenges for Inuktitut, a Low-Resource Polysynthetic Language](https://www.aclweb.org/anthology/2020.lrec-1.307.pdf). In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2521-2527).
 
