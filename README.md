@@ -193,6 +193,10 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Vylomova, E., White, J., Salesky, E., Mielke, S. J., Wu, S., Ponti, E., ... & Tyers, F. (2020). [SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection.](https://www.aclweb.org/anthology/2020.sigmorphon-1.pdf#page=17) SIGMORPHON 2020, 1.
 
+- Klyachko, E., Sorokin, A., Krizhanovskaya, N., Krizhanovsky, A., & Ryazanskaya, G. (2020). [LowResourceEval-2019: a shared task on morphological analysis for low-resource languages.](https://arxiv.org/pdf/2001.11285.pdf) arXiv preprint arXiv:2001.11285.
+
+- Eskander, R., Callejas, F., Nichols, E., Klavans, J. L., & Muresan, S. (2020, May). [MorphAGram, Evaluation and Framework for Unsupervised Morphological Segmentation.](https://www.aclweb.org/anthology/2020.lrec-1.879.pdf) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 7112-7122).
+
 - Cruz, H., Stump, G., & Anastasopoulos, A. (2020). [A Resource for Studying Chatino Verbal Morphology](https://arxiv.org/pdf/2004.02083.pdf). arXiv preprint arXiv:2004.02083.
 
 - Eskander, R., Klavans, J. & Muresan S. (2019) [Unsupervised Morphological Segmentation for Low-Resource Polysynthetic Languages](https://www.aclweb.org/anthology/papers/W/W19/W19-4222/). In Proceedings of the 16th Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 189–195).
