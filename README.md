@@ -53,6 +53,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers**
 
+- Martínez, G. S., Montaño, C., Bel-Enguix, G., Córdova, D., & Montoya, M. M. (2020, May). [CPLM, a Parallel Corpus for Mexican Languages: Development and Interface.](https://www.aclweb.org/anthology/2020.lrec-1.360.pdf) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2947-2952).
+
 - Bustamante, G., Oncevay, A., & Zariquiey, R. (2020, May). [No data to crawl? Monolingual corpus creation from PDF files of truly low-resource languages in Peru.](https://www.aclweb.org/anthology/2020.lrec-1.356.pdf) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2914-2923).
 
 - Frey, B. (2020). [“Data is nice:” Theoretical and pedagogical implications of an Eastern Cherokee corpus](https://scholarspace.manoa.hawaii.edu/bitstream/10125/66556/ldc-sp20-frey.pdf). LD&C Special Publication.
@@ -186,6 +188,10 @@ If you want more information, please read our paper: ["Challenges of language te
 **Scientific Papers**
 
 - Mager, Manuel, Özlem Çetinoğlu, and Katharina Kann. (2020) ["Tackling the Low-resource Challenge for Canonical Segmentation."](https://arxiv.org/pdf/2010.02804.pdf) EMNLP2020.
+
+- Kann, Katharina, McCarthy, Arya D., Nicolai, Garrett, and Hulden, Mans. ["The SIGMORPHON 2020 Shared Task on Unsupervised Morphological Paradigm Completion"](https://www.aclweb.org/anthology/2020.sigmorphon-1.3/), SIGMORPHON 2020.
+
+- Vylomova, E., White, J., Salesky, E., Mielke, S. J., Wu, S., Ponti, E., ... & Tyers, F. (2020). [SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection.](https://www.aclweb.org/anthology/2020.sigmorphon-1.pdf#page=17) SIGMORPHON 2020, 1.
 
 - Cruz, H., Stump, G., & Anastasopoulos, A. (2020). [A Resource for Studying Chatino Verbal Morphology](https://arxiv.org/pdf/2004.02083.pdf). arXiv preprint arXiv:2004.02083.
 
