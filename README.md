@@ -364,7 +364,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Gupta, V., & Boulianne, G. (2020, May). [Automatic Transcription Challenges for Inuktitut, a Low-Resource Polysynthetic Language](https://www.aclweb.org/anthology/2020.lrec-1.307.pdf). In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2521-2527).
 
-Vera J. and Palma W. (2020) [Laplacian spectrum approach to linguistic complexity: a casestudy on indigenous languages of the America](https://www.researchgate.net/publication/340003576_Laplacian_spectrum_approach_to_linguistic_complexity_a_case_study_on_indigenous_languages_of_the_Americas). EPL (Europhysics Letters).
+- Vera J. and Palma W. (2020) [Laplacian spectrum approach to linguistic complexity: a casestudy on indigenous languages of the America](https://www.researchgate.net/publication/340003576_Laplacian_spectrum_approach_to_linguistic_complexity_a_case_study_on_indigenous_languages_of_the_Americas). EPL (Europhysics Letters).
 
 - van Esch, D., Foley, B., & San, N. (2019). [Future Directions in Technological Support for Language Documentation](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1007&context=scil-cmel). In Proceedings of the Workshop on Computational Methods for Endangered Languages (Vol. 1, No. 1, p. 3).
 
