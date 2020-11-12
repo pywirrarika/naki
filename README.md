@@ -106,6 +106,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers**
 
+- Zhang, S., Frey, B., & Bansal, M. (2020). [ChrEn: Cherokee-English Machine Translation for Endangered Language Revitalization](https://arxiv.org/abs/2010.04791). EMNLP 2020.
+
 - Le, T. N., & Sadat, F. (2020, October). [Low-Resource NMT: an Empirical Study on the Effect of Rich Morphological Word Segmentation on Inuktitut.](https://www.aclweb.org/anthology/2020.amta-research.15.pdf) In Proceedings of the 14th Conference of the Association for Machine Translation in the Americas (AMTA 2020) (pp. 165-172).
 
 - Gómez Montoya, H. E. (2019). [A crowd-powered conversational assistant for the improvement of a neural machine translation system in native peruvian language](http://tesis.pucp.edu.pe/repositorio/bitstream/handle/20.500.12404/14989/GOMEZ_MONTOYA_HECTOR_ERASMO_CROWD_POWERED_CONVERSATIONAL.pdf?sequence=1). Pontificia Universidad Católica del Perú.
