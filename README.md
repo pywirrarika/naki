@@ -53,6 +53,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Scientific papers**
 
+- Chiruzzo, L., Amarilla, P., Ríos, A., & Lugo, G. G. (2020, May). [Development of a Guarani-Spanish Parallel Corpus](https://www.aclweb.org/anthology/2020.lrec-1.320/). In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2629-2633).
+
 - Martínez, G. S., Montaño, C., Bel-Enguix, G., Córdova, D., & Montoya, M. M. (2020, May). [CPLM, a Parallel Corpus for Mexican Languages: Development and Interface.](https://www.aclweb.org/anthology/2020.lrec-1.360.pdf) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2947-2952).
 
 - Bustamante, G., Oncevay, A., & Zariquiey, R. (2020, May). [No data to crawl? Monolingual corpus creation from PDF files of truly low-resource languages in Peru.](https://www.aclweb.org/anthology/2020.lrec-1.356.pdf) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2914-2923).
