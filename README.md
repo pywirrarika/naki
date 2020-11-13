@@ -36,6 +36,7 @@ If you want more information, please read our paper: ["Challenges of language te
 - [BriBri Anotated speech + morphology corpus](http://www.bribri.net/)
 - [Inukitut Morhological Database](http://www.inuktitutcomputing.ca/DataBase/info.php)
 - [JW300](http://zeljkoagic.github.io/jw300/) Multilingual corpus that also include many indigenous languages of the american contienent.  ( Soon available at [OPUS](http://opus.nlpl.eu/) )
+- [Cherokee-English Parallel Corpus](https://github.com/ZhangShiyue/ChrEn)
 - [English-Inuktitut Parallel Corpus](http://www.inuktitutcomputing.ca/NunavutHansard/en/index-VX.html)
 - [Nahuatl-Spanish, Axolot](http://www.corpus.unam.mx/axolotl/) Parallel Nahuatl - Spanish
 - [Gran diccionario Nahuatl](http://www.gdn.unam.mx/)
@@ -44,6 +45,7 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Shipibo-Konibo Wordnet](http://chana.inf.pucp.edu.pe/resources/wordnet-shp/)
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
 - [Shipibo-Konbio POS-tag corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/pos-tagger/)
+- [Mexican Languages Parallel Corpus](http://www.corpus.unam.mx/geco/portal/index/cplm)
 - [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
 - [Morpholigucal inflection SIGMPRPHON 2020 (Tlatepuzco Chinantec, San Pedro Amuzgo Amuzgos, Yoloxóchitl Mixtec, Chichicapan Zapotec, Yaitepec Chatino, Zenzontepec Chatino, Eastern Highland Chatino, Eastern Highland Otomi, Mezquital Otomi and Chichimec)](https://sigmorphon.github.io/sharedtasks/2020/task0/)
 - [Siminchikkunarayku](https://siminchikkunarayku.pe/) A Speech Corpus for Preservation of Southern Quechua
