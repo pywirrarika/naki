@@ -76,8 +76,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Kazeminejad, G., Cowell, A., & Hulden, M. (2017). [Creating lexical resources for polysynthetic languages—the case of Arapaho](http://www.aclweb.org/anthology/W/W17/W17-0102.pdf). ComputEL-2, 10. (_Arapaho_)
 
-- 
-Sofia Margarita Flores Solórzano. (2017). [Un primer corpus pandialectal oral de la lengua bribri y su anotacion morfológica con base en el modelo de estados finitos.](https://repositorio.uam.es/handle/10486/681805) Ph.D. thesis, Universidad Autónoma de Madrid. 
+- Sofia Margarita Flores Solórzano. (2017). [Un primer corpus pandialectal oral de la lengua bribri y su anotacion morfológica con base en el modelo de estados finitos.](https://repositorio.uam.es/handle/10486/681805) Ph.D. thesis, Universidad Autónoma de Madrid. 
 
 - Cavar, M., Cavar, D., & Cruz, H. (2016). [Endangered Language Documentation: Bootstrapping a Chatino Speech Corpus, Forced Aligner](https://pdfs.semanticscholar.org/fa97/76c0deb92124497893fdf6e089ca5165bf57.pdf), ASR. In LREC.
 
@@ -286,7 +285,7 @@ Sofia Margarita Flores Solórzano. (2017). [Un primer corpus pandialectal oral d
 - Adams, O., Cohn, T., Neubig, G., & Michaud, A. (2017, December). [Phonemic transcription of low-resource tonal languages.](https://www.aclweb.org/anthology/U17-1006) In Proceedings of the Australasian Language Technology Association Workshop 2017 (pp. 53-60).
 
 
-Rolando Coto-Solano and Sofía Flores Solórzano. (2017). [Comparison of two forced alignment systems for aligning Bribri speech.](http://www2.clei.org/cleiej/paper.php?id=375) CLEI Electron. J., 20(1):2–1. DOI: 10.19153/cleiej.20.1.2. 
+- Rolando Coto-Solano and Sofía Flores Solórzano. (2017). [Comparison of two forced alignment systems for aligning Bribri speech.](http://www2.clei.org/cleiej/paper.php?id=375) CLEI Electron. J., 20(1):2–1. DOI: 10.19153/cleiej.20.1.2. 
 
 - Rolando Coto-Solano and Sofía Flores Solórzano. 2016. [Alineación forzada sin entrenamiento para la anotación automática de corpus orales de las lenguas indígenas de Costa Rica.](https://revistas.ucr.ac.cr/index.php/kanina/article/view/30234) Kánina, 40(4):175–199. DOI 10.15517/RK.V40I4.30234. 
 
