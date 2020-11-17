@@ -10,7 +10,7 @@ Our main aim is to encourage native speakers, researchers, and engineers to part
 
 If you want more information, please read our paper: ["Challenges of language technologies for the indigenous languages of the Americas"](http://aclweb.org/anthology/C18-1006). We also invite you to have a look at our [presentation](https://github.com/pywirrarika/naki/blob/master/challenges-slides.pdf)
 
-**Last Update:** 12/November/2020
+**Last Update:** 16/November/2020
 
 # Table of Contents
 1. [Machine Translation](#machine-translation)
@@ -34,6 +34,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 **Online Corpus Resources**
 - [BriBri Anotated speech + morphology corpus](http://www.bribri.net/)
+- [BriBri bilingual dictionary](http://www.haakonkrohn.com/bribri/index.html)
 - [Inukitut Morhological Database](http://www.inuktitutcomputing.ca/DataBase/info.php)
 - [JW300](http://zeljkoagic.github.io/jw300/) Multilingual corpus that also include many indigenous languages of the american contienent.  ( Soon available at [OPUS](http://opus.nlpl.eu/) )
 - [Cherokee-English Parallel Corpus](https://github.com/ZhangShiyue/ChrEn)
@@ -75,6 +76,9 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Kazeminejad, G., Cowell, A., & Hulden, M. (2017). [Creating lexical resources for polysynthetic languages—the case of Arapaho](http://www.aclweb.org/anthology/W/W17/W17-0102.pdf). ComputEL-2, 10. (_Arapaho_)
 
+- 
+Sofia Margarita Flores Solórzano. (2017). [Un primer corpus pandialectal oral de la lengua bribri y su anotacion morfológica con base en el modelo de estados finitos.](https://repositorio.uam.es/handle/10486/681805) Ph.D. thesis, Universidad Autónoma de Madrid. 
+
 - Cavar, M., Cavar, D., & Cruz, H. (2016). [Endangered Language Documentation: Bootstrapping a Chatino Speech Corpus, Forced Aligner](https://pdfs.semanticscholar.org/fa97/76c0deb92124497893fdf6e089ca5165bf57.pdf), ASR. In LREC.
 
 - Bell, L., & Bell, L. (2017). [Work With What You’ve Got](http://www.aclweb.org/anthology/W/W17/W17-0107.pdf). ComputEL-2, 48. (_haida_)
@@ -107,6 +111,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 
 **Scientific papers**
+
+- Isaac Feldman and Rolando Coto-Solano. (2020). Neural Machine Translation Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri. COLING.
 
 - Zhang, S., Frey, B., & Bansal, M. (2020). [ChrEn: Cherokee-English Machine Translation for Endangered Language Revitalization](https://arxiv.org/abs/2010.04791). EMNLP 2020.
 
@@ -205,6 +211,8 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Cruz, H., Stump, G., & Anastasopoulos, A. (2020). [A Resource for Studying Chatino Verbal Morphology](https://arxiv.org/pdf/2004.02083.pdf). arXiv preprint arXiv:2004.02083.
 
+- Sofía Flores Solórzano. 2019. [La modelización de la morfología verbal bribri - modeling the verbal morphology of bribri.](http://rua.ua.es/dspace/handle/10045/89913) Revista de Procesamiento del Lenguaje Natural, 62:85–92. DOI 10.26342/2019-62-10. 
+
 - Eskander, R., Klavans, J. & Muresan S. (2019) [Unsupervised Morphological Segmentation for Low-Resource Polysynthetic Languages](https://www.aclweb.org/anthology/papers/W/W19/W19-4222/). In Proceedings of the 16th Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 189–195).
 
 - Sorokin, A. (2019). [Convolutional neural networks for low-resource morpheme segmentation: baseline or state-of-the-art?](https://www.aclweb.org/anthology/papers/W/W19/W19-4218/) In Proceedings of the 16th Workshop on Computational Research in Phonetics, Phonology, and Morphology (pp. 154–159).
@@ -276,6 +284,11 @@ If you want more information, please read our paper: ["Challenges of language te
 - Klavans, J., Morgan, J., LaRocca, S., Micher, J., & Voss, C. (2018). [Challenges in Speech Recognition and Translation of High-Value Low-Density Polysynthetic Languages](http://www.aclweb.org/anthology/W18-1921). In Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (Volume 2: User Papers) (Vol. 2, pp. 283-293).
 
 - Adams, O., Cohn, T., Neubig, G., & Michaud, A. (2017, December). [Phonemic transcription of low-resource tonal languages.](https://www.aclweb.org/anthology/U17-1006) In Proceedings of the Australasian Language Technology Association Workshop 2017 (pp. 53-60).
+
+
+Rolando Coto-Solano and Sofía Flores Solórzano. (2017). [Comparison of two forced alignment systems for aligning Bribri speech.](http://www2.clei.org/cleiej/paper.php?id=375) CLEI Electron. J., 20(1):2–1. DOI: 10.19153/cleiej.20.1.2. 
+
+- Rolando Coto-Solano and Sofía Flores Solórzano. 2016. [Alineación forzada sin entrenamiento para la anotación automática de corpus orales de las lenguas indígenas de Costa Rica.](https://revistas.ucr.ac.cr/index.php/kanina/article/view/30234) Kánina, 40(4):175–199. DOI 10.15517/RK.V40I4.30234. 
 
 - Mendels, G., Cooper, E., & Hirschberg, J. (2016). [Babler-data collection from the web to support speech recognition and keyword search](http://www.aclweb.org/anthology/W16-2609). In Proceedings of the 10th Web as Corpus Workshop (pp. 72-81).
 
@@ -352,6 +365,8 @@ If you want more information, please read our paper: ["Challenges of language te
 - Kuhn, J. (2004). [Applying computational linguistic techniques in a documentary project for Q’anjob’al (Mayan, Guatemala)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=38AE54494D1E31D064F78F599CF0AEE0?doi=10.1.1.154.6408&rep=rep1&type=pdf). In In Proceedings of LREC 2004.
 
 - Lessard, G., Brinklow, N., & Levison, M. (2018). [Natural Language Generation for Polysynthetic Languages: Language Teaching and Learning Software for Kanyen’kéha (Mohawk)](http://www.aclweb.org/anthology/W18-4805). In Proceedings of the Workshop on Computational Modeling of Polysynthetic Languages (pp. 41-52).
+
+- Sofía Flores Solórzano. (2010). Teclado chibcha: Un software lingüístico para los sistemas de escritura de las lenguas bribri y cab´ecar. Revista de Filología y Lingüística de la Universidad de Costa Rica, 36(2):155–161. DOI 10.15517/RFL.V36I2.1110. https://revistas.ucr.ac.cr/index.php/filyling/article/view/1110
 
 - Manning, C. D., Jansz, K., & Indurkhya, N. (2001). [Kirrkirr: Software for browsing and visual exploration of a structured Warlpiri dictionary](https://nlp.stanford.edu/kirrkirr/doc/ach-allc2000-ver5-single.pdf). Literary and Linguistic Computing, 16(2), 135-151.
 
