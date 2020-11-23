@@ -46,6 +46,7 @@ If you want more information, please read our paper: ["Challenges of language te
 - [Shipibo-Konibo Wordnet](http://chana.inf.pucp.edu.pe/resources/wordnet-shp/)
 - [Shipibo-Konibo Lemma corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/lemmatizer/)
 - [Shipibo-Konbio POS-tag corpus](http://chana.inf.pucp.edu.pe/resources/lemma-pos/pos-tagger/)
+- [Mapundung Speech and parallel corpus](https://github.com/mingjund/mapudungun-corpus)
 - [Mexican Languages Parallel Corpus](http://www.corpus.unam.mx/geco/portal/index/cplm)
 - [Morphological reinflection (Navajo, Haida and Quechua)](https://github.com/sigmorphon/conll2017/tree/master/all)
 - [Morpholigucal inflection SIGMPRPHON 2020 (Tlatepuzco Chinantec, San Pedro Amuzgo Amuzgos, Yoloxóchitl Mixtec, Chichicapan Zapotec, Yaitepec Chatino, Zenzontepec Chatino, Eastern Highland Chatino, Eastern Highland Otomi, Mezquital Otomi and Chichimec)](https://sigmorphon.github.io/sharedtasks/2020/task0/)
@@ -57,6 +58,8 @@ If you want more information, please read our paper: ["Challenges of language te
 **Scientific papers**
 
 - Chiruzzo, L., Amarilla, P., Ríos, A., & Lugo, G. G. (2020, May). [Development of a Guarani-Spanish Parallel Corpus](https://www.aclweb.org/anthology/2020.lrec-1.320/). In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2629-2633).
+
+- Duan, M., Fasola, C., Rallabandi, S. K., Vega, R., Anastasopoulos, A., Levin, L., & Black, A. W. (2020, May). A Resource for Computational Experiments on Mapudungun. In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2872-2877).
 
 - Martínez, G. S., Montaño, C., Bel-Enguix, G., Córdova, D., & Montoya, M. M. (2020, May). [CPLM, a Parallel Corpus for Mexican Languages: Development and Interface.](https://www.aclweb.org/anthology/2020.lrec-1.360.pdf) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2947-2952).
 
