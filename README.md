@@ -59,7 +59,7 @@ If you want more information, please read our paper: ["Challenges of language te
 
 - Chiruzzo, L., Amarilla, P., Ríos, A., & Lugo, G. G. (2020, May). [Development of a Guarani-Spanish Parallel Corpus](https://www.aclweb.org/anthology/2020.lrec-1.320/). In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2629-2633).
 
-- Duan, M., Fasola, C., Rallabandi, S. K., Vega, R., Anastasopoulos, A., Levin, L., & Black, A. W. (2020, May). A Resource for Computational Experiments on Mapudungun. In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2872-2877).
+- Duan, M., Fasola, C., Rallabandi, S. K., Vega, R., Anastasopoulos, A., Levin, L., & Black, A. W. (2020, May). [A Resource for Computational Experiments on Mapudungun](https://www.aclweb.org/anthology/2020.lrec-1.350/). In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2872-2877).
 
 - Martínez, G. S., Montaño, C., Bel-Enguix, G., Córdova, D., & Montoya, M. M. (2020, May). [CPLM, a Parallel Corpus for Mexican Languages: Development and Interface.](https://www.aclweb.org/anthology/2020.lrec-1.360.pdf) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2947-2952).
 
